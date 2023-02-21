@@ -1,0 +1,4267 @@
+Year,Jury.or.Televoting,From.country,To.country,Points
+2016,T,Albania,Armenia,2
+2016,T,Albania,Australia,12
+2016,T,Albania,Austria,0
+2016,T,Albania,Azerbaijan,0
+2016,T,Albania,Belgium,0
+2016,T,Albania,Bulgaria,8
+2016,T,Albania,Croatia,0
+2016,T,Albania,Cyprus,0
+2016,T,Albania,Czech Republic,0
+2016,T,Albania,France,0
+2016,T,Albania,Georgia,0
+2016,T,Albania,Germany,0
+2016,T,Albania,Hungary,1
+2016,T,Albania,Israel,0
+2016,T,Albania,Italy,10
+2016,T,Albania,Latvia,0
+2016,T,Albania,Lithuania,4
+2016,T,Albania,Malta,0
+2016,T,Albania,Poland,5
+2016,T,Albania,Russia,7
+2016,T,Albania,Serbia,0
+2016,T,Albania,Spain,0
+2016,T,Albania,Sweden,3
+2016,T,Albania,The Netherlands,0
+2016,T,Albania,Ukraine,6
+2016,T,Albania,United Kingdom,0
+2016,T,Armenia,Australia,0
+2016,T,Armenia,Austria,4
+2016,T,Armenia,Azerbaijan,0
+2016,T,Armenia,Belgium,0
+2016,T,Armenia,Bulgaria,0
+2016,T,Armenia,Croatia,0
+2016,T,Armenia,Cyprus,6
+2016,T,Armenia,Czech Republic,0
+2016,T,Armenia,France,7
+2016,T,Armenia,Georgia,8
+2016,T,Armenia,Germany,0
+2016,T,Armenia,Hungary,3
+2016,T,Armenia,Israel,0
+2016,T,Armenia,Italy,0
+2016,T,Armenia,Latvia,0
+2016,T,Armenia,Lithuania,0
+2016,T,Armenia,Malta,5
+2016,T,Armenia,Poland,1
+2016,T,Armenia,Russia,12
+2016,T,Armenia,Serbia,0
+2016,T,Armenia,Spain,0
+2016,T,Armenia,Sweden,2
+2016,T,Armenia,The Netherlands,0
+2016,T,Armenia,Ukraine,10
+2016,T,Armenia,United Kingdom,0
+2016,T,Australia,Armenia,0
+2016,T,Australia,Austria,3
+2016,T,Australia,Azerbaijan,0
+2016,T,Australia,Belgium,12
+2016,T,Australia,Bulgaria,10
+2016,T,Australia,Croatia,0
+2016,T,Australia,Cyprus,0
+2016,T,Australia,Czech Republic,0
+2016,T,Australia,France,7
+2016,T,Australia,Georgia,0
+2016,T,Australia,Germany,0
+2016,T,Australia,Hungary,0
+2016,T,Australia,Israel,0
+2016,T,Australia,Italy,0
+2016,T,Australia,Latvia,0
+2016,T,Australia,Lithuania,1
+2016,T,Australia,Malta,6
+2016,T,Australia,Poland,0
+2016,T,Australia,Russia,5
+2016,T,Australia,Serbia,0
+2016,T,Australia,Spain,2
+2016,T,Australia,Sweden,0
+2016,T,Australia,The Netherlands,0
+2016,T,Australia,Ukraine,8
+2016,T,Australia,United Kingdom,4
+2016,T,Austria,Armenia,0
+2016,T,Austria,Australia,3
+2016,T,Austria,Azerbaijan,0
+2016,T,Austria,Belgium,0
+2016,T,Austria,Bulgaria,5
+2016,T,Austria,Croatia,0
+2016,T,Austria,Cyprus,0
+2016,T,Austria,Czech Republic,0
+2016,T,Austria,France,1
+2016,T,Austria,Georgia,0
+2016,T,Austria,Germany,2
+2016,T,Austria,Hungary,0
+2016,T,Austria,Israel,0
+2016,T,Austria,Italy,0
+2016,T,Austria,Latvia,0
+2016,T,Austria,Lithuania,0
+2016,T,Austria,Malta,0
+2016,T,Austria,Poland,12
+2016,T,Austria,Russia,8
+2016,T,Austria,Serbia,4
+2016,T,Austria,Spain,0
+2016,T,Austria,Sweden,7
+2016,T,Austria,The Netherlands,6
+2016,T,Austria,Ukraine,10
+2016,T,Austria,United Kingdom,0
+2016,T,Azerbaijan,Armenia,0
+2016,T,Azerbaijan,Australia,2
+2016,T,Azerbaijan,Austria,0
+2016,T,Azerbaijan,Belgium,0
+2016,T,Azerbaijan,Bulgaria,8
+2016,T,Azerbaijan,Croatia,0
+2016,T,Azerbaijan,Cyprus,0
+2016,T,Azerbaijan,Czech Republic,0
+2016,T,Azerbaijan,France,4
+2016,T,Azerbaijan,Georgia,1
+2016,T,Azerbaijan,Germany,0
+2016,T,Azerbaijan,Hungary,7
+2016,T,Azerbaijan,Israel,6
+2016,T,Azerbaijan,Italy,0
+2016,T,Azerbaijan,Latvia,0
+2016,T,Azerbaijan,Lithuania,0
+2016,T,Azerbaijan,Malta,5
+2016,T,Azerbaijan,Poland,3
+2016,T,Azerbaijan,Russia,12
+2016,T,Azerbaijan,Serbia,0
+2016,T,Azerbaijan,Spain,0
+2016,T,Azerbaijan,Sweden,0
+2016,T,Azerbaijan,The Netherlands,0
+2016,T,Azerbaijan,Ukraine,10
+2016,T,Azerbaijan,United Kingdom,0
+2016,T,Belarus,Armenia,7
+2016,T,Belarus,Australia,1
+2016,T,Belarus,Austria,0
+2016,T,Belarus,Azerbaijan,8
+2016,T,Belarus,Belgium,0
+2016,T,Belarus,Bulgaria,4
+2016,T,Belarus,Croatia,0
+2016,T,Belarus,Cyprus,0
+2016,T,Belarus,Czech Republic,0
+2016,T,Belarus,France,0
+2016,T,Belarus,Georgia,0
+2016,T,Belarus,Germany,0
+2016,T,Belarus,Hungary,3
+2016,T,Belarus,Israel,0
+2016,T,Belarus,Italy,0
+2016,T,Belarus,Latvia,5
+2016,T,Belarus,Lithuania,0
+2016,T,Belarus,Malta,0
+2016,T,Belarus,Poland,6
+2016,T,Belarus,Russia,12
+2016,T,Belarus,Serbia,0
+2016,T,Belarus,Spain,0
+2016,T,Belarus,Sweden,2
+2016,T,Belarus,The Netherlands,0
+2016,T,Belarus,Ukraine,10
+2016,T,Belarus,United Kingdom,0
+2016,T,Belgium,Armenia,7
+2016,T,Belgium,Australia,4
+2016,T,Belgium,Austria,3
+2016,T,Belgium,Azerbaijan,0
+2016,T,Belgium,Bulgaria,5
+2016,T,Belgium,Croatia,0
+2016,T,Belgium,Cyprus,0
+2016,T,Belgium,Czech Republic,0
+2016,T,Belgium,France,8
+2016,T,Belgium,Georgia,0
+2016,T,Belgium,Germany,0
+2016,T,Belgium,Hungary,0
+2016,T,Belgium,Israel,0
+2016,T,Belgium,Italy,0
+2016,T,Belgium,Latvia,0
+2016,T,Belgium,Lithuania,0
+2016,T,Belgium,Malta,0
+2016,T,Belgium,Poland,12
+2016,T,Belgium,Russia,6
+2016,T,Belgium,Serbia,0
+2016,T,Belgium,Spain,0
+2016,T,Belgium,Sweden,1
+2016,T,Belgium,The Netherlands,10
+2016,T,Belgium,Ukraine,2
+2016,T,Belgium,United Kingdom,0
+2016,T,Bosnia & Herzegovina,Armenia,0
+2016,T,Bosnia & Herzegovina,Australia,3
+2016,T,Bosnia & Herzegovina,Austria,5
+2016,T,Bosnia & Herzegovina,Azerbaijan,8
+2016,T,Bosnia & Herzegovina,Belgium,0
+2016,T,Bosnia & Herzegovina,Bulgaria,2
+2016,T,Bosnia & Herzegovina,Croatia,10
+2016,T,Bosnia & Herzegovina,Cyprus,0
+2016,T,Bosnia & Herzegovina,Czech Republic,0
+2016,T,Bosnia & Herzegovina,France,4
+2016,T,Bosnia & Herzegovina,Georgia,0
+2016,T,Bosnia & Herzegovina,Germany,0
+2016,T,Bosnia & Herzegovina,Hungary,1
+2016,T,Bosnia & Herzegovina,Israel,0
+2016,T,Bosnia & Herzegovina,Italy,0
+2016,T,Bosnia & Herzegovina,Latvia,0
+2016,T,Bosnia & Herzegovina,Lithuania,0
+2016,T,Bosnia & Herzegovina,Malta,0
+2016,T,Bosnia & Herzegovina,Poland,0
+2016,T,Bosnia & Herzegovina,Russia,6
+2016,T,Bosnia & Herzegovina,Serbia,12
+2016,T,Bosnia & Herzegovina,Spain,0
+2016,T,Bosnia & Herzegovina,Sweden,0
+2016,T,Bosnia & Herzegovina,The Netherlands,0
+2016,T,Bosnia & Herzegovina,Ukraine,7
+2016,T,Bosnia & Herzegovina,United Kingdom,0
+2016,T,Bulgaria,Armenia,8
+2016,T,Bulgaria,Australia,5
+2016,T,Bulgaria,Austria,4
+2016,T,Bulgaria,Azerbaijan,1
+2016,T,Bulgaria,Belgium,0
+2016,T,Bulgaria,Croatia,0
+2016,T,Bulgaria,Cyprus,7
+2016,T,Bulgaria,Czech Republic,0
+2016,T,Bulgaria,France,0
+2016,T,Bulgaria,Georgia,0
+2016,T,Bulgaria,Germany,0
+2016,T,Bulgaria,Hungary,0
+2016,T,Bulgaria,Israel,2
+2016,T,Bulgaria,Italy,0
+2016,T,Bulgaria,Latvia,0
+2016,T,Bulgaria,Lithuania,0
+2016,T,Bulgaria,Malta,0
+2016,T,Bulgaria,Poland,6
+2016,T,Bulgaria,Russia,12
+2016,T,Bulgaria,Serbia,0
+2016,T,Bulgaria,Spain,0
+2016,T,Bulgaria,Sweden,3
+2016,T,Bulgaria,The Netherlands,0
+2016,T,Bulgaria,Ukraine,10
+2016,T,Bulgaria,United Kingdom,0
+2016,T,Croatia,Armenia,0
+2016,T,Croatia,Australia,5
+2016,T,Croatia,Austria,6
+2016,T,Croatia,Azerbaijan,0
+2016,T,Croatia,Belgium,0
+2016,T,Croatia,Bulgaria,1
+2016,T,Croatia,Cyprus,0
+2016,T,Croatia,Czech Republic,0
+2016,T,Croatia,France,2
+2016,T,Croatia,Georgia,0
+2016,T,Croatia,Germany,0
+2016,T,Croatia,Hungary,3
+2016,T,Croatia,Israel,0
+2016,T,Croatia,Italy,0
+2016,T,Croatia,Latvia,0
+2016,T,Croatia,Lithuania,0
+2016,T,Croatia,Malta,0
+2016,T,Croatia,Poland,4
+2016,T,Croatia,Russia,8
+2016,T,Croatia,Serbia,12
+2016,T,Croatia,Spain,0
+2016,T,Croatia,Sweden,7
+2016,T,Croatia,The Netherlands,0
+2016,T,Croatia,Ukraine,10
+2016,T,Croatia,United Kingdom,0
+2016,T,Cyprus,Armenia,8
+2016,T,Cyprus,Australia,5
+2016,T,Cyprus,Austria,0
+2016,T,Cyprus,Azerbaijan,0
+2016,T,Cyprus,Belgium,0
+2016,T,Cyprus,Bulgaria,12
+2016,T,Cyprus,Croatia,0
+2016,T,Cyprus,Czech Republic,0
+2016,T,Cyprus,France,6
+2016,T,Cyprus,Georgia,0
+2016,T,Cyprus,Germany,0
+2016,T,Cyprus,Hungary,4
+2016,T,Cyprus,Israel,0
+2016,T,Cyprus,Italy,0
+2016,T,Cyprus,Latvia,0
+2016,T,Cyprus,Lithuania,3
+2016,T,Cyprus,Malta,0
+2016,T,Cyprus,Poland,2
+2016,T,Cyprus,Russia,10
+2016,T,Cyprus,Serbia,0
+2016,T,Cyprus,Spain,0
+2016,T,Cyprus,Sweden,1
+2016,T,Cyprus,The Netherlands,0
+2016,T,Cyprus,Ukraine,7
+2016,T,Cyprus,United Kingdom,0
+2016,T,Czech Republic,Armenia,8
+2016,T,Czech Republic,Australia,1
+2016,T,Czech Republic,Austria,4
+2016,T,Czech Republic,Azerbaijan,6
+2016,T,Czech Republic,Belgium,0
+2016,T,Czech Republic,Bulgaria,5
+2016,T,Czech Republic,Croatia,0
+2016,T,Czech Republic,Cyprus,0
+2016,T,Czech Republic,France,0
+2016,T,Czech Republic,Georgia,0
+2016,T,Czech Republic,Germany,0
+2016,T,Czech Republic,Hungary,3
+2016,T,Czech Republic,Israel,0
+2016,T,Czech Republic,Italy,0
+2016,T,Czech Republic,Latvia,0
+2016,T,Czech Republic,Lithuania,0
+2016,T,Czech Republic,Malta,0
+2016,T,Czech Republic,Poland,7
+2016,T,Czech Republic,Russia,10
+2016,T,Czech Republic,Serbia,0
+2016,T,Czech Republic,Spain,0
+2016,T,Czech Republic,Sweden,2
+2016,T,Czech Republic,The Netherlands,0
+2016,T,Czech Republic,Ukraine,12
+2016,T,Czech Republic,United Kingdom,0
+2016,T,Denmark,Armenia,0
+2016,T,Denmark,Australia,10
+2016,T,Denmark,Austria,1
+2016,T,Denmark,Azerbaijan,0
+2016,T,Denmark,Belgium,8
+2016,T,Denmark,Bulgaria,0
+2016,T,Denmark,Croatia,0
+2016,T,Denmark,Cyprus,0
+2016,T,Denmark,Czech Republic,0
+2016,T,Denmark,France,2
+2016,T,Denmark,Georgia,0
+2016,T,Denmark,Germany,0
+2016,T,Denmark,Hungary,0
+2016,T,Denmark,Israel,0
+2016,T,Denmark,Italy,0
+2016,T,Denmark,Latvia,0
+2016,T,Denmark,Lithuania,6
+2016,T,Denmark,Malta,0
+2016,T,Denmark,Poland,5
+2016,T,Denmark,Russia,4
+2016,T,Denmark,Serbia,0
+2016,T,Denmark,Spain,0
+2016,T,Denmark,Sweden,12
+2016,T,Denmark,The Netherlands,7
+2016,T,Denmark,Ukraine,3
+2016,T,Denmark,United Kingdom,0
+2016,T,Estonia,Armenia,0
+2016,T,Estonia,Australia,4
+2016,T,Estonia,Austria,6
+2016,T,Estonia,Azerbaijan,0
+2016,T,Estonia,Belgium,0
+2016,T,Estonia,Bulgaria,0
+2016,T,Estonia,Croatia,0
+2016,T,Estonia,Cyprus,3
+2016,T,Estonia,Czech Republic,0
+2016,T,Estonia,France,2
+2016,T,Estonia,Georgia,0
+2016,T,Estonia,Germany,0
+2016,T,Estonia,Hungary,0
+2016,T,Estonia,Israel,0
+2016,T,Estonia,Italy,0
+2016,T,Estonia,Latvia,7
+2016,T,Estonia,Lithuania,5
+2016,T,Estonia,Malta,0
+2016,T,Estonia,Poland,1
+2016,T,Estonia,Russia,12
+2016,T,Estonia,Serbia,0
+2016,T,Estonia,Spain,0
+2016,T,Estonia,Sweden,10
+2016,T,Estonia,The Netherlands,0
+2016,T,Estonia,Ukraine,8
+2016,T,Estonia,United Kingdom,0
+2016,T,F.Y.R. Macedonia,Armenia,7
+2016,T,F.Y.R. Macedonia,Australia,3
+2016,T,F.Y.R. Macedonia,Austria,0
+2016,T,F.Y.R. Macedonia,Azerbaijan,0
+2016,T,F.Y.R. Macedonia,Belgium,4
+2016,T,F.Y.R. Macedonia,Bulgaria,10
+2016,T,F.Y.R. Macedonia,Croatia,5
+2016,T,F.Y.R. Macedonia,Cyprus,0
+2016,T,F.Y.R. Macedonia,Czech Republic,0
+2016,T,F.Y.R. Macedonia,France,0
+2016,T,F.Y.R. Macedonia,Georgia,0
+2016,T,F.Y.R. Macedonia,Germany,0
+2016,T,F.Y.R. Macedonia,Hungary,0
+2016,T,F.Y.R. Macedonia,Israel,0
+2016,T,F.Y.R. Macedonia,Italy,1
+2016,T,F.Y.R. Macedonia,Latvia,0
+2016,T,F.Y.R. Macedonia,Lithuania,0
+2016,T,F.Y.R. Macedonia,Malta,0
+2016,T,F.Y.R. Macedonia,Poland,2
+2016,T,F.Y.R. Macedonia,Russia,8
+2016,T,F.Y.R. Macedonia,Serbia,12
+2016,T,F.Y.R. Macedonia,Spain,0
+2016,T,F.Y.R. Macedonia,Sweden,0
+2016,T,F.Y.R. Macedonia,The Netherlands,0
+2016,T,F.Y.R. Macedonia,Ukraine,6
+2016,T,F.Y.R. Macedonia,United Kingdom,0
+2016,T,Finland,Armenia,0
+2016,T,Finland,Australia,7
+2016,T,Finland,Austria,6
+2016,T,Finland,Azerbaijan,0
+2016,T,Finland,Belgium,0
+2016,T,Finland,Bulgaria,4
+2016,T,Finland,Croatia,0
+2016,T,Finland,Cyprus,1
+2016,T,Finland,Czech Republic,0
+2016,T,Finland,France,3
+2016,T,Finland,Georgia,0
+2016,T,Finland,Germany,0
+2016,T,Finland,Hungary,0
+2016,T,Finland,Israel,0
+2016,T,Finland,Italy,0
+2016,T,Finland,Latvia,2
+2016,T,Finland,Lithuania,0
+2016,T,Finland,Malta,0
+2016,T,Finland,Poland,5
+2016,T,Finland,Russia,8
+2016,T,Finland,Serbia,0
+2016,T,Finland,Spain,0
+2016,T,Finland,Sweden,10
+2016,T,Finland,The Netherlands,0
+2016,T,Finland,Ukraine,12
+2016,T,Finland,United Kingdom,0
+2016,T,France,Armenia,12
+2016,T,France,Australia,0
+2016,T,France,Austria,8
+2016,T,France,Azerbaijan,0
+2016,T,France,Belgium,4
+2016,T,France,Bulgaria,5
+2016,T,France,Croatia,0
+2016,T,France,Cyprus,0
+2016,T,France,Czech Republic,0
+2016,T,France,Georgia,0
+2016,T,France,Germany,0
+2016,T,France,Hungary,0
+2016,T,France,Israel,3
+2016,T,France,Italy,0
+2016,T,France,Latvia,0
+2016,T,France,Lithuania,0
+2016,T,France,Malta,0
+2016,T,France,Poland,7
+2016,T,France,Russia,6
+2016,T,France,Serbia,0
+2016,T,France,Spain,1
+2016,T,France,Sweden,2
+2016,T,France,The Netherlands,0
+2016,T,France,Ukraine,10
+2016,T,France,United Kingdom,0
+2016,T,Georgia,Armenia,12
+2016,T,Georgia,Australia,1
+2016,T,Georgia,Austria,0
+2016,T,Georgia,Azerbaijan,7
+2016,T,Georgia,Belgium,0
+2016,T,Georgia,Bulgaria,3
+2016,T,Georgia,Croatia,0
+2016,T,Georgia,Cyprus,0
+2016,T,Georgia,Czech Republic,0
+2016,T,Georgia,France,0
+2016,T,Georgia,Germany,0
+2016,T,Georgia,Hungary,2
+2016,T,Georgia,Israel,0
+2016,T,Georgia,Italy,0
+2016,T,Georgia,Latvia,6
+2016,T,Georgia,Lithuania,5
+2016,T,Georgia,Malta,0
+2016,T,Georgia,Poland,4
+2016,T,Georgia,Russia,8
+2016,T,Georgia,Serbia,0
+2016,T,Georgia,Spain,0
+2016,T,Georgia,Sweden,0
+2016,T,Georgia,The Netherlands,0
+2016,T,Georgia,Ukraine,10
+2016,T,Georgia,United Kingdom,0
+2016,T,Germany,Armenia,2
+2016,T,Germany,Australia,5
+2016,T,Germany,Austria,7
+2016,T,Germany,Azerbaijan,0
+2016,T,Germany,Belgium,0
+2016,T,Germany,Bulgaria,4
+2016,T,Germany,Croatia,0
+2016,T,Germany,Cyprus,0
+2016,T,Germany,Czech Republic,0
+2016,T,Germany,France,0
+2016,T,Germany,Georgia,0
+2016,T,Germany,Hungary,0
+2016,T,Germany,Israel,0
+2016,T,Germany,Italy,1
+2016,T,Germany,Latvia,0
+2016,T,Germany,Lithuania,0
+2016,T,Germany,Malta,0
+2016,T,Germany,Poland,10
+2016,T,Germany,Russia,12
+2016,T,Germany,Serbia,0
+2016,T,Germany,Spain,0
+2016,T,Germany,Sweden,8
+2016,T,Germany,The Netherlands,3
+2016,T,Germany,Ukraine,6
+2016,T,Germany,United Kingdom,0
+2016,T,Greece,Armenia,8
+2016,T,Greece,Australia,5
+2016,T,Greece,Austria,1
+2016,T,Greece,Azerbaijan,0
+2016,T,Greece,Belgium,0
+2016,T,Greece,Bulgaria,7
+2016,T,Greece,Croatia,0
+2016,T,Greece,Cyprus,12
+2016,T,Greece,Czech Republic,0
+2016,T,Greece,France,4
+2016,T,Greece,Georgia,0
+2016,T,Greece,Germany,0
+2016,T,Greece,Hungary,2
+2016,T,Greece,Israel,0
+2016,T,Greece,Italy,0
+2016,T,Greece,Latvia,0
+2016,T,Greece,Lithuania,0
+2016,T,Greece,Malta,0
+2016,T,Greece,Poland,3
+2016,T,Greece,Russia,10
+2016,T,Greece,Serbia,0
+2016,T,Greece,Spain,0
+2016,T,Greece,Sweden,0
+2016,T,Greece,The Netherlands,0
+2016,T,Greece,Ukraine,6
+2016,T,Greece,United Kingdom,0
+2016,T,Hungary,Armenia,0
+2016,T,Hungary,Australia,3
+2016,T,Hungary,Austria,6
+2016,T,Hungary,Azerbaijan,0
+2016,T,Hungary,Belgium,0
+2016,T,Hungary,Bulgaria,4
+2016,T,Hungary,Croatia,0
+2016,T,Hungary,Cyprus,5
+2016,T,Hungary,Czech Republic,0
+2016,T,Hungary,France,1
+2016,T,Hungary,Georgia,0
+2016,T,Hungary,Germany,0
+2016,T,Hungary,Israel,0
+2016,T,Hungary,Italy,0
+2016,T,Hungary,Latvia,0
+2016,T,Hungary,Lithuania,0
+2016,T,Hungary,Malta,0
+2016,T,Hungary,Poland,8
+2016,T,Hungary,Russia,10
+2016,T,Hungary,Serbia,0
+2016,T,Hungary,Spain,0
+2016,T,Hungary,Sweden,7
+2016,T,Hungary,The Netherlands,2
+2016,T,Hungary,Ukraine,12
+2016,T,Hungary,United Kingdom,0
+2016,T,Iceland,Armenia,0
+2016,T,Iceland,Australia,8
+2016,T,Iceland,Austria,2
+2016,T,Iceland,Azerbaijan,1
+2016,T,Iceland,Belgium,3
+2016,T,Iceland,Bulgaria,0
+2016,T,Iceland,Croatia,0
+2016,T,Iceland,Cyprus,0
+2016,T,Iceland,Czech Republic,0
+2016,T,Iceland,France,5
+2016,T,Iceland,Georgia,0
+2016,T,Iceland,Germany,0
+2016,T,Iceland,Hungary,0
+2016,T,Iceland,Israel,0
+2016,T,Iceland,Italy,0
+2016,T,Iceland,Latvia,0
+2016,T,Iceland,Lithuania,4
+2016,T,Iceland,Malta,0
+2016,T,Iceland,Poland,10
+2016,T,Iceland,Russia,7
+2016,T,Iceland,Serbia,0
+2016,T,Iceland,Spain,0
+2016,T,Iceland,Sweden,12
+2016,T,Iceland,The Netherlands,6
+2016,T,Iceland,Ukraine,0
+2016,T,Iceland,United Kingdom,0
+2016,T,Ireland,Armenia,0
+2016,T,Ireland,Australia,6
+2016,T,Ireland,Austria,1
+2016,T,Ireland,Azerbaijan,0
+2016,T,Ireland,Belgium,0
+2016,T,Ireland,Bulgaria,5
+2016,T,Ireland,Croatia,0
+2016,T,Ireland,Cyprus,0
+2016,T,Ireland,Czech Republic,0
+2016,T,Ireland,France,0
+2016,T,Ireland,Georgia,0
+2016,T,Ireland,Germany,0
+2016,T,Ireland,Hungary,0
+2016,T,Ireland,Israel,0
+2016,T,Ireland,Italy,0
+2016,T,Ireland,Latvia,7
+2016,T,Ireland,Lithuania,12
+2016,T,Ireland,Malta,0
+2016,T,Ireland,Poland,10
+2016,T,Ireland,Russia,8
+2016,T,Ireland,Serbia,0
+2016,T,Ireland,Spain,0
+2016,T,Ireland,Sweden,2
+2016,T,Ireland,The Netherlands,0
+2016,T,Ireland,Ukraine,4
+2016,T,Ireland,United Kingdom,3
+2016,T,Israel,Armenia,6
+2016,T,Israel,Australia,5
+2016,T,Israel,Austria,3
+2016,T,Israel,Azerbaijan,2
+2016,T,Israel,Belgium,1
+2016,T,Israel,Bulgaria,7
+2016,T,Israel,Croatia,0
+2016,T,Israel,Cyprus,0
+2016,T,Israel,Czech Republic,0
+2016,T,Israel,France,12
+2016,T,Israel,Georgia,0
+2016,T,Israel,Germany,0
+2016,T,Israel,Hungary,0
+2016,T,Israel,Italy,0
+2016,T,Israel,Latvia,0
+2016,T,Israel,Lithuania,0
+2016,T,Israel,Malta,0
+2016,T,Israel,Poland,4
+2016,T,Israel,Russia,10
+2016,T,Israel,Serbia,0
+2016,T,Israel,Spain,0
+2016,T,Israel,Sweden,0
+2016,T,Israel,The Netherlands,0
+2016,T,Israel,Ukraine,8
+2016,T,Israel,United Kingdom,0
+2016,T,Italy,Armenia,1
+2016,T,Italy,Australia,0
+2016,T,Italy,Austria,0
+2016,T,Italy,Azerbaijan,0
+2016,T,Italy,Belgium,0
+2016,T,Italy,Bulgaria,7
+2016,T,Italy,Croatia,0
+2016,T,Italy,Cyprus,6
+2016,T,Italy,Czech Republic,0
+2016,T,Italy,France,5
+2016,T,Italy,Georgia,3
+2016,T,Italy,Germany,0
+2016,T,Italy,Hungary,0
+2016,T,Italy,Israel,0
+2016,T,Italy,Latvia,0
+2016,T,Italy,Lithuania,2
+2016,T,Italy,Malta,0
+2016,T,Italy,Poland,10
+2016,T,Italy,Russia,8
+2016,T,Italy,Serbia,4
+2016,T,Italy,Spain,0
+2016,T,Italy,Sweden,0
+2016,T,Italy,The Netherlands,0
+2016,T,Italy,Ukraine,12
+2016,T,Italy,United Kingdom,0
+2016,T,Latvia,Armenia,0
+2016,T,Latvia,Australia,6
+2016,T,Latvia,Austria,4
+2016,T,Latvia,Azerbaijan,3
+2016,T,Latvia,Belgium,0
+2016,T,Latvia,Bulgaria,1
+2016,T,Latvia,Croatia,0
+2016,T,Latvia,Cyprus,0
+2016,T,Latvia,Czech Republic,0
+2016,T,Latvia,France,0
+2016,T,Latvia,Georgia,2
+2016,T,Latvia,Germany,0
+2016,T,Latvia,Hungary,0
+2016,T,Latvia,Israel,0
+2016,T,Latvia,Italy,0
+2016,T,Latvia,Lithuania,8
+2016,T,Latvia,Malta,0
+2016,T,Latvia,Poland,5
+2016,T,Latvia,Russia,12
+2016,T,Latvia,Serbia,0
+2016,T,Latvia,Spain,0
+2016,T,Latvia,Sweden,7
+2016,T,Latvia,The Netherlands,0
+2016,T,Latvia,Ukraine,10
+2016,T,Latvia,United Kingdom,0
+2016,T,Lithuania,Armenia,0
+2016,T,Lithuania,Australia,5
+2016,T,Lithuania,Austria,1
+2016,T,Lithuania,Azerbaijan,0
+2016,T,Lithuania,Belgium,0
+2016,T,Lithuania,Bulgaria,0
+2016,T,Lithuania,Croatia,0
+2016,T,Lithuania,Cyprus,0
+2016,T,Lithuania,Czech Republic,0
+2016,T,Lithuania,France,3
+2016,T,Lithuania,Georgia,4
+2016,T,Lithuania,Germany,0
+2016,T,Lithuania,Hungary,2
+2016,T,Lithuania,Israel,0
+2016,T,Lithuania,Italy,0
+2016,T,Lithuania,Latvia,12
+2016,T,Lithuania,Malta,0
+2016,T,Lithuania,Poland,6
+2016,T,Lithuania,Russia,8
+2016,T,Lithuania,Serbia,0
+2016,T,Lithuania,Spain,0
+2016,T,Lithuania,Sweden,7
+2016,T,Lithuania,The Netherlands,0
+2016,T,Lithuania,Ukraine,10
+2016,T,Lithuania,United Kingdom,0
+2016,T,Malta,Armenia,0
+2016,T,Malta,Australia,12
+2016,T,Malta,Austria,0
+2016,T,Malta,Azerbaijan,6
+2016,T,Malta,Belgium,0
+2016,T,Malta,Bulgaria,8
+2016,T,Malta,Croatia,0
+2016,T,Malta,Cyprus,0
+2016,T,Malta,Czech Republic,0
+2016,T,Malta,France,2
+2016,T,Malta,Georgia,0
+2016,T,Malta,Germany,0
+2016,T,Malta,Hungary,5
+2016,T,Malta,Israel,0
+2016,T,Malta,Italy,7
+2016,T,Malta,Latvia,0
+2016,T,Malta,Lithuania,0
+2016,T,Malta,Poland,0
+2016,T,Malta,Russia,10
+2016,T,Malta,Serbia,0
+2016,T,Malta,Spain,0
+2016,T,Malta,Sweden,0
+2016,T,Malta,The Netherlands,3
+2016,T,Malta,Ukraine,4
+2016,T,Malta,United Kingdom,1
+2016,T,Moldova,Armenia,7
+2016,T,Moldova,Australia,5
+2016,T,Moldova,Austria,4
+2016,T,Moldova,Azerbaijan,8
+2016,T,Moldova,Belgium,0
+2016,T,Moldova,Bulgaria,2
+2016,T,Moldova,Croatia,0
+2016,T,Moldova,Cyprus,0
+2016,T,Moldova,Czech Republic,0
+2016,T,Moldova,France,6
+2016,T,Moldova,Georgia,0
+2016,T,Moldova,Germany,0
+2016,T,Moldova,Hungary,0
+2016,T,Moldova,Israel,0
+2016,T,Moldova,Italy,0
+2016,T,Moldova,Latvia,1
+2016,T,Moldova,Lithuania,3
+2016,T,Moldova,Malta,0
+2016,T,Moldova,Poland,0
+2016,T,Moldova,Russia,12
+2016,T,Moldova,Serbia,0
+2016,T,Moldova,Spain,0
+2016,T,Moldova,Sweden,0
+2016,T,Moldova,The Netherlands,0
+2016,T,Moldova,Ukraine,10
+2016,T,Moldova,United Kingdom,0
+2016,T,Montenegro,Armenia,0
+2016,T,Montenegro,Australia,0
+2016,T,Montenegro,Austria,0
+2016,T,Montenegro,Azerbaijan,7
+2016,T,Montenegro,Belgium,0
+2016,T,Montenegro,Bulgaria,5
+2016,T,Montenegro,Croatia,6
+2016,T,Montenegro,Cyprus,0
+2016,T,Montenegro,Czech Republic,0
+2016,T,Montenegro,France,1
+2016,T,Montenegro,Georgia,0
+2016,T,Montenegro,Germany,0
+2016,T,Montenegro,Hungary,3
+2016,T,Montenegro,Israel,0
+2016,T,Montenegro,Italy,4
+2016,T,Montenegro,Latvia,0
+2016,T,Montenegro,Lithuania,2
+2016,T,Montenegro,Malta,0
+2016,T,Montenegro,Poland,0
+2016,T,Montenegro,Russia,10
+2016,T,Montenegro,Serbia,12
+2016,T,Montenegro,Spain,0
+2016,T,Montenegro,Sweden,0
+2016,T,Montenegro,The Netherlands,0
+2016,T,Montenegro,Ukraine,8
+2016,T,Montenegro,United Kingdom,0
+2016,T,Norway,Armenia,0
+2016,T,Norway,Australia,8
+2016,T,Norway,Austria,0
+2016,T,Norway,Azerbaijan,0
+2016,T,Norway,Belgium,2
+2016,T,Norway,Bulgaria,5
+2016,T,Norway,Croatia,0
+2016,T,Norway,Cyprus,0
+2016,T,Norway,Czech Republic,0
+2016,T,Norway,France,1
+2016,T,Norway,Georgia,0
+2016,T,Norway,Germany,0
+2016,T,Norway,Hungary,0
+2016,T,Norway,Israel,0
+2016,T,Norway,Italy,0
+2016,T,Norway,Latvia,3
+2016,T,Norway,Lithuania,12
+2016,T,Norway,Malta,0
+2016,T,Norway,Poland,10
+2016,T,Norway,Russia,6
+2016,T,Norway,Serbia,0
+2016,T,Norway,Spain,0
+2016,T,Norway,Sweden,7
+2016,T,Norway,The Netherlands,0
+2016,T,Norway,Ukraine,4
+2016,T,Norway,United Kingdom,0
+2016,T,Poland,Armenia,2
+2016,T,Poland,Australia,7
+2016,T,Poland,Austria,4
+2016,T,Poland,Azerbaijan,0
+2016,T,Poland,Belgium,0
+2016,T,Poland,Bulgaria,3
+2016,T,Poland,Croatia,0
+2016,T,Poland,Cyprus,1
+2016,T,Poland,Czech Republic,0
+2016,T,Poland,France,0
+2016,T,Poland,Georgia,0
+2016,T,Poland,Germany,0
+2016,T,Poland,Hungary,6
+2016,T,Poland,Israel,0
+2016,T,Poland,Italy,0
+2016,T,Poland,Latvia,5
+2016,T,Poland,Lithuania,0
+2016,T,Poland,Malta,0
+2016,T,Poland,Russia,8
+2016,T,Poland,Serbia,0
+2016,T,Poland,Spain,0
+2016,T,Poland,Sweden,10
+2016,T,Poland,The Netherlands,0
+2016,T,Poland,Ukraine,12
+2016,T,Poland,United Kingdom,0
+2016,T,Russia,Armenia,12
+2016,T,Russia,Australia,4
+2016,T,Russia,Austria,8
+2016,T,Russia,Azerbaijan,6
+2016,T,Russia,Belgium,0
+2016,T,Russia,Bulgaria,0
+2016,T,Russia,Croatia,0
+2016,T,Russia,Cyprus,7
+2016,T,Russia,Czech Republic,0
+2016,T,Russia,France,3
+2016,T,Russia,Georgia,0
+2016,T,Russia,Germany,0
+2016,T,Russia,Hungary,0
+2016,T,Russia,Israel,0
+2016,T,Russia,Italy,0
+2016,T,Russia,Latvia,1
+2016,T,Russia,Lithuania,0
+2016,T,Russia,Malta,0
+2016,T,Russia,Poland,5
+2016,T,Russia,Serbia,0
+2016,T,Russia,Spain,0
+2016,T,Russia,Sweden,2
+2016,T,Russia,The Netherlands,0
+2016,T,Russia,Ukraine,10
+2016,T,Russia,United Kingdom,0
+2016,T,San Marino,Armenia,2
+2016,T,San Marino,Australia,5
+2016,T,San Marino,Austria,0
+2016,T,San Marino,Azerbaijan,0
+2016,T,San Marino,Belgium,0
+2016,T,San Marino,Bulgaria,3
+2016,T,San Marino,Croatia,0
+2016,T,San Marino,Cyprus,0
+2016,T,San Marino,Czech Republic,0
+2016,T,San Marino,France,0
+2016,T,San Marino,Georgia,0
+2016,T,San Marino,Germany,0
+2016,T,San Marino,Hungary,1
+2016,T,San Marino,Israel,0
+2016,T,San Marino,Italy,0
+2016,T,San Marino,Latvia,6
+2016,T,San Marino,Lithuania,8
+2016,T,San Marino,Malta,0
+2016,T,San Marino,Poland,7
+2016,T,San Marino,Russia,10
+2016,T,San Marino,Serbia,0
+2016,T,San Marino,Spain,0
+2016,T,San Marino,Sweden,4
+2016,T,San Marino,The Netherlands,0
+2016,T,San Marino,Ukraine,12
+2016,T,San Marino,United Kingdom,0
+2016,T,Serbia,Armenia,2
+2016,T,Serbia,Australia,6
+2016,T,Serbia,Austria,0
+2016,T,Serbia,Azerbaijan,0
+2016,T,Serbia,Belgium,5
+2016,T,Serbia,Bulgaria,8
+2016,T,Serbia,Croatia,4
+2016,T,Serbia,Cyprus,3
+2016,T,Serbia,Czech Republic,0
+2016,T,Serbia,France,0
+2016,T,Serbia,Georgia,0
+2016,T,Serbia,Germany,0
+2016,T,Serbia,Hungary,10
+2016,T,Serbia,Israel,0
+2016,T,Serbia,Italy,0
+2016,T,Serbia,Latvia,0
+2016,T,Serbia,Lithuania,0
+2016,T,Serbia,Malta,0
+2016,T,Serbia,Poland,0
+2016,T,Serbia,Russia,12
+2016,T,Serbia,Spain,0
+2016,T,Serbia,Sweden,1
+2016,T,Serbia,The Netherlands,0
+2016,T,Serbia,Ukraine,7
+2016,T,Serbia,United Kingdom,0
+2016,T,Slovenia,Armenia,0
+2016,T,Slovenia,Australia,3
+2016,T,Slovenia,Austria,6
+2016,T,Slovenia,Azerbaijan,0
+2016,T,Slovenia,Belgium,0
+2016,T,Slovenia,Bulgaria,2
+2016,T,Slovenia,Croatia,8
+2016,T,Slovenia,Cyprus,0
+2016,T,Slovenia,Czech Republic,0
+2016,T,Slovenia,France,0
+2016,T,Slovenia,Georgia,0
+2016,T,Slovenia,Germany,0
+2016,T,Slovenia,Hungary,0
+2016,T,Slovenia,Israel,0
+2016,T,Slovenia,Italy,1
+2016,T,Slovenia,Latvia,0
+2016,T,Slovenia,Lithuania,0
+2016,T,Slovenia,Malta,0
+2016,T,Slovenia,Poland,4
+2016,T,Slovenia,Russia,10
+2016,T,Slovenia,Serbia,12
+2016,T,Slovenia,Spain,0
+2016,T,Slovenia,Sweden,5
+2016,T,Slovenia,The Netherlands,0
+2016,T,Slovenia,Ukraine,7
+2016,T,Slovenia,United Kingdom,0
+2016,T,Spain,Armenia,6
+2016,T,Spain,Australia,4
+2016,T,Spain,Austria,2
+2016,T,Spain,Azerbaijan,0
+2016,T,Spain,Belgium,0
+2016,T,Spain,Bulgaria,12
+2016,T,Spain,Croatia,0
+2016,T,Spain,Cyprus,0
+2016,T,Spain,Czech Republic,0
+2016,T,Spain,France,10
+2016,T,Spain,Georgia,0
+2016,T,Spain,Germany,0
+2016,T,Spain,Hungary,0
+2016,T,Spain,Israel,0
+2016,T,Spain,Italy,3
+2016,T,Spain,Latvia,0
+2016,T,Spain,Lithuania,0
+2016,T,Spain,Malta,0
+2016,T,Spain,Poland,5
+2016,T,Spain,Russia,8
+2016,T,Spain,Serbia,0
+2016,T,Spain,Sweden,1
+2016,T,Spain,The Netherlands,0
+2016,T,Spain,Ukraine,7
+2016,T,Spain,United Kingdom,0
+2016,T,Sweden,Armenia,0
+2016,T,Sweden,Australia,12
+2016,T,Sweden,Austria,5
+2016,T,Sweden,Azerbaijan,0
+2016,T,Sweden,Belgium,0
+2016,T,Sweden,Bulgaria,4
+2016,T,Sweden,Croatia,0
+2016,T,Sweden,Cyprus,0
+2016,T,Sweden,Czech Republic,0
+2016,T,Sweden,France,3
+2016,T,Sweden,Georgia,0
+2016,T,Sweden,Germany,0
+2016,T,Sweden,Hungary,0
+2016,T,Sweden,Israel,0
+2016,T,Sweden,Italy,0
+2016,T,Sweden,Latvia,0
+2016,T,Sweden,Lithuania,6
+2016,T,Sweden,Malta,0
+2016,T,Sweden,Poland,10
+2016,T,Sweden,Russia,8
+2016,T,Sweden,Serbia,0
+2016,T,Sweden,Spain,1
+2016,T,Sweden,The Netherlands,2
+2016,T,Sweden,Ukraine,7
+2016,T,Sweden,United Kingdom,0
+2016,T,Switzerland,Armenia,0
+2016,T,Switzerland,Australia,1
+2016,T,Switzerland,Austria,10
+2016,T,Switzerland,Azerbaijan,0
+2016,T,Switzerland,Belgium,0
+2016,T,Switzerland,Bulgaria,0
+2016,T,Switzerland,Croatia,0
+2016,T,Switzerland,Cyprus,0
+2016,T,Switzerland,Czech Republic,0
+2016,T,Switzerland,France,3
+2016,T,Switzerland,Georgia,0
+2016,T,Switzerland,Germany,8
+2016,T,Switzerland,Hungary,0
+2016,T,Switzerland,Israel,0
+2016,T,Switzerland,Italy,7
+2016,T,Switzerland,Latvia,0
+2016,T,Switzerland,Lithuania,0
+2016,T,Switzerland,Malta,0
+2016,T,Switzerland,Poland,5
+2016,T,Switzerland,Russia,6
+2016,T,Switzerland,Serbia,12
+2016,T,Switzerland,Spain,2
+2016,T,Switzerland,Sweden,0
+2016,T,Switzerland,The Netherlands,0
+2016,T,Switzerland,Ukraine,4
+2016,T,Switzerland,United Kingdom,0
+2016,T,The Netherlands,Armenia,8
+2016,T,The Netherlands,Australia,5
+2016,T,The Netherlands,Austria,6
+2016,T,The Netherlands,Azerbaijan,0
+2016,T,The Netherlands,Belgium,12
+2016,T,The Netherlands,Bulgaria,1
+2016,T,The Netherlands,Croatia,0
+2016,T,The Netherlands,Cyprus,0
+2016,T,The Netherlands,Czech Republic,0
+2016,T,The Netherlands,France,4
+2016,T,The Netherlands,Georgia,0
+2016,T,The Netherlands,Germany,0
+2016,T,The Netherlands,Hungary,0
+2016,T,The Netherlands,Israel,0
+2016,T,The Netherlands,Italy,0
+2016,T,The Netherlands,Latvia,0
+2016,T,The Netherlands,Lithuania,0
+2016,T,The Netherlands,Malta,0
+2016,T,The Netherlands,Poland,10
+2016,T,The Netherlands,Russia,3
+2016,T,The Netherlands,Serbia,0
+2016,T,The Netherlands,Spain,0
+2016,T,The Netherlands,Sweden,2
+2016,T,The Netherlands,Ukraine,7
+2016,T,The Netherlands,United Kingdom,0
+2016,T,Ukraine,Armenia,7
+2016,T,Ukraine,Australia,4
+2016,T,Ukraine,Austria,0
+2016,T,Ukraine,Azerbaijan,10
+2016,T,Ukraine,Belgium,0
+2016,T,Ukraine,Bulgaria,2
+2016,T,Ukraine,Croatia,0
+2016,T,Ukraine,Cyprus,0
+2016,T,Ukraine,Czech Republic,0
+2016,T,Ukraine,France,0
+2016,T,Ukraine,Georgia,6
+2016,T,Ukraine,Germany,0
+2016,T,Ukraine,Hungary,0
+2016,T,Ukraine,Israel,0
+2016,T,Ukraine,Italy,0
+2016,T,Ukraine,Latvia,5
+2016,T,Ukraine,Lithuania,3
+2016,T,Ukraine,Malta,0
+2016,T,Ukraine,Poland,8
+2016,T,Ukraine,Russia,12
+2016,T,Ukraine,Serbia,0
+2016,T,Ukraine,Spain,0
+2016,T,Ukraine,Sweden,1
+2016,T,Ukraine,The Netherlands,0
+2016,T,Ukraine,United Kingdom,0
+2016,T,United Kingdom,Armenia,0
+2016,T,United Kingdom,Australia,6
+2016,T,United Kingdom,Austria,0
+2016,T,United Kingdom,Azerbaijan,0
+2016,T,United Kingdom,Belgium,0
+2016,T,United Kingdom,Bulgaria,8
+2016,T,United Kingdom,Croatia,0
+2016,T,United Kingdom,Cyprus,2
+2016,T,United Kingdom,Czech Republic,0
+2016,T,United Kingdom,France,0
+2016,T,United Kingdom,Georgia,0
+2016,T,United Kingdom,Germany,0
+2016,T,United Kingdom,Hungary,0
+2016,T,United Kingdom,Israel,0
+2016,T,United Kingdom,Italy,0
+2016,T,United Kingdom,Latvia,3
+2016,T,United Kingdom,Lithuania,12
+2016,T,United Kingdom,Malta,0
+2016,T,United Kingdom,Poland,10
+2016,T,United Kingdom,Russia,7
+2016,T,United Kingdom,Serbia,0
+2016,T,United Kingdom,Spain,4
+2016,T,United Kingdom,Sweden,1
+2016,T,United Kingdom,The Netherlands,0
+2016,T,United Kingdom,Ukraine,5
+2017,T,Albania,Armenia,0
+2017,T,Albania,Australia,0
+2017,T,Albania,Austria,0
+2017,T,Albania,Azerbaijan,0
+2017,T,Albania,Belarus,0
+2017,T,Albania,Belgium,5
+2017,T,Albania,Bulgaria,10
+2017,T,Albania,Croatia,7
+2017,T,Albania,Cyprus,0
+2017,T,Albania,Denmark,0
+2017,T,Albania,France,1
+2017,T,Albania,Germany,0
+2017,T,Albania,Greece,3
+2017,T,Albania,Hungary,6
+2017,T,Albania,Israel,0
+2017,T,Albania,Italy,12
+2017,T,Albania,Moldova,0
+2017,T,Albania,Norway,0
+2017,T,Albania,Poland,0
+2017,T,Albania,Portugal,8
+2017,T,Albania,Romania,4
+2017,T,Albania,Spain,0
+2017,T,Albania,Sweden,2
+2017,T,Albania,The Netherlands,0
+2017,T,Albania,Ukraine,0
+2017,T,Albania,United Kingdom,0
+2017,T,Armenia,Australia,0
+2017,T,Armenia,Austria,0
+2017,T,Armenia,Azerbaijan,0
+2017,T,Armenia,Belarus,0
+2017,T,Armenia,Belgium,5
+2017,T,Armenia,Bulgaria,7
+2017,T,Armenia,Croatia,0
+2017,T,Armenia,Cyprus,12
+2017,T,Armenia,Denmark,0
+2017,T,Armenia,France,8
+2017,T,Armenia,Germany,0
+2017,T,Armenia,Greece,1
+2017,T,Armenia,Hungary,0
+2017,T,Armenia,Israel,0
+2017,T,Armenia,Italy,4
+2017,T,Armenia,Moldova,6
+2017,T,Armenia,Norway,0
+2017,T,Armenia,Poland,0
+2017,T,Armenia,Portugal,10
+2017,T,Armenia,Romania,2
+2017,T,Armenia,Spain,0
+2017,T,Armenia,Sweden,3
+2017,T,Armenia,The Netherlands,0
+2017,T,Armenia,Ukraine,0
+2017,T,Armenia,United Kingdom,0
+2017,T,Australia,Armenia,0
+2017,T,Australia,Austria,0
+2017,T,Australia,Azerbaijan,0
+2017,T,Australia,Belarus,0
+2017,T,Australia,Belgium,4
+2017,T,Australia,Bulgaria,5
+2017,T,Australia,Croatia,1
+2017,T,Australia,Cyprus,0
+2017,T,Australia,Denmark,8
+2017,T,Australia,France,0
+2017,T,Australia,Germany,0
+2017,T,Australia,Greece,0
+2017,T,Australia,Hungary,0
+2017,T,Australia,Israel,0
+2017,T,Australia,Italy,2
+2017,T,Australia,Moldova,12
+2017,T,Australia,Norway,0
+2017,T,Australia,Poland,0
+2017,T,Australia,Portugal,7
+2017,T,Australia,Romania,10
+2017,T,Australia,Spain,0
+2017,T,Australia,Sweden,6
+2017,T,Australia,The Netherlands,0
+2017,T,Australia,Ukraine,0
+2017,T,Australia,United Kingdom,3
+2017,T,Austria,Armenia,0
+2017,T,Austria,Australia,0
+2017,T,Austria,Azerbaijan,0
+2017,T,Austria,Belarus,0
+2017,T,Austria,Belgium,8
+2017,T,Austria,Bulgaria,7
+2017,T,Austria,Croatia,4
+2017,T,Austria,Cyprus,0
+2017,T,Austria,Denmark,0
+2017,T,Austria,France,0
+2017,T,Austria,Germany,0
+2017,T,Austria,Greece,0
+2017,T,Austria,Hungary,5
+2017,T,Austria,Israel,0
+2017,T,Austria,Italy,6
+2017,T,Austria,Moldova,3
+2017,T,Austria,Norway,0
+2017,T,Austria,Poland,2
+2017,T,Austria,Portugal,12
+2017,T,Austria,Romania,10
+2017,T,Austria,Spain,0
+2017,T,Austria,Sweden,1
+2017,T,Austria,The Netherlands,0
+2017,T,Austria,Ukraine,0
+2017,T,Austria,United Kingdom,0
+2017,T,Azerbaijan,Armenia,0
+2017,T,Azerbaijan,Australia,0
+2017,T,Azerbaijan,Austria,0
+2017,T,Azerbaijan,Belarus,0
+2017,T,Azerbaijan,Belgium,4
+2017,T,Azerbaijan,Bulgaria,12
+2017,T,Azerbaijan,Croatia,0
+2017,T,Azerbaijan,Cyprus,0
+2017,T,Azerbaijan,Denmark,0
+2017,T,Azerbaijan,France,5
+2017,T,Azerbaijan,Germany,0
+2017,T,Azerbaijan,Greece,0
+2017,T,Azerbaijan,Hungary,7
+2017,T,Azerbaijan,Israel,1
+2017,T,Azerbaijan,Italy,6
+2017,T,Azerbaijan,Moldova,10
+2017,T,Azerbaijan,Norway,0
+2017,T,Azerbaijan,Poland,0
+2017,T,Azerbaijan,Portugal,8
+2017,T,Azerbaijan,Romania,2
+2017,T,Azerbaijan,Spain,0
+2017,T,Azerbaijan,Sweden,3
+2017,T,Azerbaijan,The Netherlands,0
+2017,T,Azerbaijan,Ukraine,0
+2017,T,Azerbaijan,United Kingdom,0
+2017,T,Belarus,Armenia,0
+2017,T,Belarus,Australia,0
+2017,T,Belarus,Austria,0
+2017,T,Belarus,Azerbaijan,0
+2017,T,Belarus,Belgium,6
+2017,T,Belarus,Bulgaria,12
+2017,T,Belarus,Croatia,0
+2017,T,Belarus,Cyprus,0
+2017,T,Belarus,Denmark,0
+2017,T,Belarus,France,4
+2017,T,Belarus,Germany,0
+2017,T,Belarus,Greece,0
+2017,T,Belarus,Hungary,8
+2017,T,Belarus,Israel,0
+2017,T,Belarus,Italy,0
+2017,T,Belarus,Moldova,10
+2017,T,Belarus,Norway,5
+2017,T,Belarus,Poland,0
+2017,T,Belarus,Portugal,7
+2017,T,Belarus,Romania,2
+2017,T,Belarus,Spain,0
+2017,T,Belarus,Sweden,3
+2017,T,Belarus,The Netherlands,0
+2017,T,Belarus,Ukraine,1
+2017,T,Belarus,United Kingdom,0
+2017,T,Belgium,Armenia,0
+2017,T,Belgium,Australia,0
+2017,T,Belgium,Austria,0
+2017,T,Belgium,Azerbaijan,0
+2017,T,Belgium,Belarus,0
+2017,T,Belgium,Bulgaria,8
+2017,T,Belgium,Croatia,0
+2017,T,Belgium,Cyprus,0
+2017,T,Belgium,Denmark,0
+2017,T,Belgium,France,3
+2017,T,Belgium,Germany,0
+2017,T,Belgium,Greece,0
+2017,T,Belgium,Hungary,1
+2017,T,Belgium,Israel,0
+2017,T,Belgium,Italy,5
+2017,T,Belgium,Moldova,7
+2017,T,Belgium,Norway,0
+2017,T,Belgium,Poland,4
+2017,T,Belgium,Portugal,12
+2017,T,Belgium,Romania,6
+2017,T,Belgium,Spain,0
+2017,T,Belgium,Sweden,2
+2017,T,Belgium,The Netherlands,10
+2017,T,Belgium,Ukraine,0
+2017,T,Belgium,United Kingdom,0
+2017,T,Bulgaria,Armenia,0
+2017,T,Bulgaria,Australia,0
+2017,T,Bulgaria,Austria,0
+2017,T,Bulgaria,Azerbaijan,0
+2017,T,Bulgaria,Belarus,0
+2017,T,Bulgaria,Belgium,4
+2017,T,Bulgaria,Croatia,1
+2017,T,Bulgaria,Cyprus,3
+2017,T,Bulgaria,Denmark,0
+2017,T,Bulgaria,France,12
+2017,T,Bulgaria,Germany,0
+2017,T,Bulgaria,Greece,5
+2017,T,Bulgaria,Hungary,6
+2017,T,Bulgaria,Israel,0
+2017,T,Bulgaria,Italy,0
+2017,T,Bulgaria,Moldova,10
+2017,T,Bulgaria,Norway,0
+2017,T,Bulgaria,Poland,0
+2017,T,Bulgaria,Portugal,7
+2017,T,Bulgaria,Romania,8
+2017,T,Bulgaria,Spain,0
+2017,T,Bulgaria,Sweden,2
+2017,T,Bulgaria,The Netherlands,0
+2017,T,Bulgaria,Ukraine,0
+2017,T,Bulgaria,United Kingdom,0
+2017,T,Croatia,Armenia,0
+2017,T,Croatia,Australia,0
+2017,T,Croatia,Austria,0
+2017,T,Croatia,Azerbaijan,0
+2017,T,Croatia,Belarus,0
+2017,T,Croatia,Belgium,5
+2017,T,Croatia,Bulgaria,8
+2017,T,Croatia,Cyprus,0
+2017,T,Croatia,Denmark,0
+2017,T,Croatia,France,3
+2017,T,Croatia,Germany,0
+2017,T,Croatia,Greece,0
+2017,T,Croatia,Hungary,12
+2017,T,Croatia,Israel,0
+2017,T,Croatia,Italy,7
+2017,T,Croatia,Moldova,4
+2017,T,Croatia,Norway,0
+2017,T,Croatia,Poland,0
+2017,T,Croatia,Portugal,10
+2017,T,Croatia,Romania,6
+2017,T,Croatia,Spain,0
+2017,T,Croatia,Sweden,2
+2017,T,Croatia,The Netherlands,1
+2017,T,Croatia,Ukraine,0
+2017,T,Croatia,United Kingdom,0
+2017,T,Cyprus,Armenia,1
+2017,T,Cyprus,Australia,0
+2017,T,Cyprus,Austria,0
+2017,T,Cyprus,Azerbaijan,0
+2017,T,Cyprus,Belarus,0
+2017,T,Cyprus,Belgium,2
+2017,T,Cyprus,Bulgaria,10
+2017,T,Cyprus,Croatia,0
+2017,T,Cyprus,Denmark,0
+2017,T,Cyprus,France,3
+2017,T,Cyprus,Germany,0
+2017,T,Cyprus,Greece,12
+2017,T,Cyprus,Hungary,0
+2017,T,Cyprus,Israel,0
+2017,T,Cyprus,Italy,8
+2017,T,Cyprus,Moldova,6
+2017,T,Cyprus,Norway,0
+2017,T,Cyprus,Poland,0
+2017,T,Cyprus,Portugal,7
+2017,T,Cyprus,Romania,4
+2017,T,Cyprus,Spain,0
+2017,T,Cyprus,Sweden,5
+2017,T,Cyprus,The Netherlands,0
+2017,T,Cyprus,Ukraine,0
+2017,T,Cyprus,United Kingdom,0
+2017,T,Czech Republic,Armenia,2
+2017,T,Czech Republic,Australia,0
+2017,T,Czech Republic,Austria,0
+2017,T,Czech Republic,Azerbaijan,10
+2017,T,Czech Republic,Belarus,3
+2017,T,Czech Republic,Belgium,4
+2017,T,Czech Republic,Bulgaria,12
+2017,T,Czech Republic,Croatia,0
+2017,T,Czech Republic,Cyprus,0
+2017,T,Czech Republic,Denmark,0
+2017,T,Czech Republic,France,0
+2017,T,Czech Republic,Germany,0
+2017,T,Czech Republic,Greece,0
+2017,T,Czech Republic,Hungary,0
+2017,T,Czech Republic,Israel,0
+2017,T,Czech Republic,Italy,1
+2017,T,Czech Republic,Moldova,5
+2017,T,Czech Republic,Norway,0
+2017,T,Czech Republic,Poland,0
+2017,T,Czech Republic,Portugal,8
+2017,T,Czech Republic,Romania,6
+2017,T,Czech Republic,Spain,0
+2017,T,Czech Republic,Sweden,0
+2017,T,Czech Republic,The Netherlands,0
+2017,T,Czech Republic,Ukraine,7
+2017,T,Czech Republic,United Kingdom,0
+2017,T,Denmark,Armenia,0
+2017,T,Denmark,Australia,2
+2017,T,Denmark,Austria,0
+2017,T,Denmark,Azerbaijan,0
+2017,T,Denmark,Belarus,0
+2017,T,Denmark,Belgium,6
+2017,T,Denmark,Bulgaria,10
+2017,T,Denmark,Croatia,0
+2017,T,Denmark,Cyprus,0
+2017,T,Denmark,France,0
+2017,T,Denmark,Germany,0
+2017,T,Denmark,Greece,0
+2017,T,Denmark,Hungary,3
+2017,T,Denmark,Israel,0
+2017,T,Denmark,Italy,0
+2017,T,Denmark,Moldova,8
+2017,T,Denmark,Norway,7
+2017,T,Denmark,Poland,0
+2017,T,Denmark,Portugal,5
+2017,T,Denmark,Romania,4
+2017,T,Denmark,Spain,0
+2017,T,Denmark,Sweden,12
+2017,T,Denmark,The Netherlands,1
+2017,T,Denmark,Ukraine,0
+2017,T,Denmark,United Kingdom,0
+2017,T,Estonia,Armenia,0
+2017,T,Estonia,Australia,0
+2017,T,Estonia,Austria,0
+2017,T,Estonia,Azerbaijan,0
+2017,T,Estonia,Belarus,2
+2017,T,Estonia,Belgium,12
+2017,T,Estonia,Bulgaria,7
+2017,T,Estonia,Croatia,0
+2017,T,Estonia,Cyprus,0
+2017,T,Estonia,Denmark,0
+2017,T,Estonia,France,1
+2017,T,Estonia,Germany,0
+2017,T,Estonia,Greece,0
+2017,T,Estonia,Hungary,8
+2017,T,Estonia,Israel,0
+2017,T,Estonia,Italy,5
+2017,T,Estonia,Moldova,4
+2017,T,Estonia,Norway,0
+2017,T,Estonia,Poland,0
+2017,T,Estonia,Portugal,10
+2017,T,Estonia,Romania,6
+2017,T,Estonia,Spain,0
+2017,T,Estonia,Sweden,3
+2017,T,Estonia,The Netherlands,0
+2017,T,Estonia,Ukraine,0
+2017,T,Estonia,United Kingdom,0
+2017,T,F.Y.R. Macedonia,Armenia,0
+2017,T,F.Y.R. Macedonia,Australia,0
+2017,T,F.Y.R. Macedonia,Austria,0
+2017,T,F.Y.R. Macedonia,Azerbaijan,0
+2017,T,F.Y.R. Macedonia,Belarus,0
+2017,T,F.Y.R. Macedonia,Belgium,4
+2017,T,F.Y.R. Macedonia,Bulgaria,12
+2017,T,F.Y.R. Macedonia,Croatia,10
+2017,T,F.Y.R. Macedonia,Cyprus,0
+2017,T,F.Y.R. Macedonia,Denmark,0
+2017,T,F.Y.R. Macedonia,France,6
+2017,T,F.Y.R. Macedonia,Germany,0
+2017,T,F.Y.R. Macedonia,Greece,0
+2017,T,F.Y.R. Macedonia,Hungary,3
+2017,T,F.Y.R. Macedonia,Israel,1
+2017,T,F.Y.R. Macedonia,Italy,8
+2017,T,F.Y.R. Macedonia,Moldova,2
+2017,T,F.Y.R. Macedonia,Norway,0
+2017,T,F.Y.R. Macedonia,Poland,0
+2017,T,F.Y.R. Macedonia,Portugal,7
+2017,T,F.Y.R. Macedonia,Romania,0
+2017,T,F.Y.R. Macedonia,Spain,0
+2017,T,F.Y.R. Macedonia,Sweden,5
+2017,T,F.Y.R. Macedonia,The Netherlands,0
+2017,T,F.Y.R. Macedonia,Ukraine,0
+2017,T,F.Y.R. Macedonia,United Kingdom,0
+2017,T,Finland,Armenia,0
+2017,T,Finland,Australia,0
+2017,T,Finland,Austria,0
+2017,T,Finland,Azerbaijan,0
+2017,T,Finland,Belarus,0
+2017,T,Finland,Belgium,10
+2017,T,Finland,Bulgaria,7
+2017,T,Finland,Croatia,0
+2017,T,Finland,Cyprus,0
+2017,T,Finland,Denmark,0
+2017,T,Finland,France,1
+2017,T,Finland,Germany,0
+2017,T,Finland,Greece,0
+2017,T,Finland,Hungary,4
+2017,T,Finland,Israel,0
+2017,T,Finland,Italy,8
+2017,T,Finland,Moldova,5
+2017,T,Finland,Norway,2
+2017,T,Finland,Poland,0
+2017,T,Finland,Portugal,12
+2017,T,Finland,Romania,3
+2017,T,Finland,Spain,0
+2017,T,Finland,Sweden,6
+2017,T,Finland,The Netherlands,0
+2017,T,Finland,Ukraine,0
+2017,T,Finland,United Kingdom,0
+2017,T,France,Armenia,6
+2017,T,France,Australia,0
+2017,T,France,Austria,0
+2017,T,France,Azerbaijan,0
+2017,T,France,Belarus,0
+2017,T,France,Belgium,8
+2017,T,France,Bulgaria,4
+2017,T,France,Croatia,0
+2017,T,France,Cyprus,0
+2017,T,France,Denmark,0
+2017,T,France,Germany,0
+2017,T,France,Greece,0
+2017,T,France,Hungary,2
+2017,T,France,Israel,3
+2017,T,France,Italy,5
+2017,T,France,Moldova,7
+2017,T,France,Norway,0
+2017,T,France,Poland,1
+2017,T,France,Portugal,12
+2017,T,France,Romania,10
+2017,T,France,Spain,0
+2017,T,France,Sweden,0
+2017,T,France,The Netherlands,0
+2017,T,France,Ukraine,0
+2017,T,France,United Kingdom,0
+2017,T,Georgia,Armenia,10
+2017,T,Georgia,Australia,0
+2017,T,Georgia,Austria,0
+2017,T,Georgia,Azerbaijan,12
+2017,T,Georgia,Belarus,6
+2017,T,Georgia,Belgium,0
+2017,T,Georgia,Bulgaria,7
+2017,T,Georgia,Croatia,0
+2017,T,Georgia,Cyprus,2
+2017,T,Georgia,Denmark,0
+2017,T,Georgia,France,3
+2017,T,Georgia,Germany,0
+2017,T,Georgia,Greece,0
+2017,T,Georgia,Hungary,0
+2017,T,Georgia,Israel,0
+2017,T,Georgia,Italy,5
+2017,T,Georgia,Moldova,0
+2017,T,Georgia,Norway,0
+2017,T,Georgia,Poland,0
+2017,T,Georgia,Portugal,8
+2017,T,Georgia,Romania,0
+2017,T,Georgia,Spain,0
+2017,T,Georgia,Sweden,1
+2017,T,Georgia,The Netherlands,0
+2017,T,Georgia,Ukraine,4
+2017,T,Georgia,United Kingdom,0
+2017,T,Germany,Armenia,0
+2017,T,Germany,Australia,0
+2017,T,Germany,Austria,0
+2017,T,Germany,Azerbaijan,0
+2017,T,Germany,Belarus,0
+2017,T,Germany,Belgium,10
+2017,T,Germany,Bulgaria,5
+2017,T,Germany,Croatia,8
+2017,T,Germany,Cyprus,0
+2017,T,Germany,Denmark,0
+2017,T,Germany,France,0
+2017,T,Germany,Greece,0
+2017,T,Germany,Hungary,3
+2017,T,Germany,Israel,0
+2017,T,Germany,Italy,4
+2017,T,Germany,Moldova,7
+2017,T,Germany,Norway,0
+2017,T,Germany,Poland,2
+2017,T,Germany,Portugal,12
+2017,T,Germany,Romania,6
+2017,T,Germany,Spain,0
+2017,T,Germany,Sweden,0
+2017,T,Germany,The Netherlands,1
+2017,T,Germany,Ukraine,0
+2017,T,Germany,United Kingdom,0
+2017,T,Greece,Armenia,2
+2017,T,Greece,Australia,0
+2017,T,Greece,Austria,0
+2017,T,Greece,Azerbaijan,0
+2017,T,Greece,Belarus,0
+2017,T,Greece,Belgium,5
+2017,T,Greece,Bulgaria,10
+2017,T,Greece,Croatia,0
+2017,T,Greece,Cyprus,12
+2017,T,Greece,Denmark,0
+2017,T,Greece,France,4
+2017,T,Greece,Germany,0
+2017,T,Greece,Hungary,0
+2017,T,Greece,Israel,0
+2017,T,Greece,Italy,7
+2017,T,Greece,Moldova,6
+2017,T,Greece,Norway,0
+2017,T,Greece,Poland,0
+2017,T,Greece,Portugal,8
+2017,T,Greece,Romania,1
+2017,T,Greece,Spain,0
+2017,T,Greece,Sweden,3
+2017,T,Greece,The Netherlands,0
+2017,T,Greece,Ukraine,0
+2017,T,Greece,United Kingdom,0
+2017,T,Hungary,Armenia,0
+2017,T,Hungary,Australia,0
+2017,T,Hungary,Austria,0
+2017,T,Hungary,Azerbaijan,0
+2017,T,Hungary,Belarus,0
+2017,T,Hungary,Belgium,8
+2017,T,Hungary,Bulgaria,12
+2017,T,Hungary,Croatia,5
+2017,T,Hungary,Cyprus,2
+2017,T,Hungary,Denmark,0
+2017,T,Hungary,France,1
+2017,T,Hungary,Germany,0
+2017,T,Hungary,Greece,0
+2017,T,Hungary,Israel,0
+2017,T,Hungary,Italy,4
+2017,T,Hungary,Moldova,10
+2017,T,Hungary,Norway,0
+2017,T,Hungary,Poland,0
+2017,T,Hungary,Portugal,7
+2017,T,Hungary,Romania,6
+2017,T,Hungary,Spain,0
+2017,T,Hungary,Sweden,3
+2017,T,Hungary,The Netherlands,0
+2017,T,Hungary,Ukraine,0
+2017,T,Hungary,United Kingdom,0
+2017,T,Iceland,Armenia,0
+2017,T,Iceland,Australia,0
+2017,T,Iceland,Austria,0
+2017,T,Iceland,Azerbaijan,0
+2017,T,Iceland,Belarus,0
+2017,T,Iceland,Belgium,10
+2017,T,Iceland,Bulgaria,4
+2017,T,Iceland,Croatia,0
+2017,T,Iceland,Cyprus,0
+2017,T,Iceland,Denmark,0
+2017,T,Iceland,France,0
+2017,T,Iceland,Germany,0
+2017,T,Iceland,Greece,0
+2017,T,Iceland,Hungary,2
+2017,T,Iceland,Israel,0
+2017,T,Iceland,Italy,7
+2017,T,Iceland,Moldova,6
+2017,T,Iceland,Norway,1
+2017,T,Iceland,Poland,3
+2017,T,Iceland,Portugal,12
+2017,T,Iceland,Romania,5
+2017,T,Iceland,Spain,0
+2017,T,Iceland,Sweden,8
+2017,T,Iceland,The Netherlands,0
+2017,T,Iceland,Ukraine,0
+2017,T,Iceland,United Kingdom,0
+2017,T,Ireland,Armenia,0
+2017,T,Ireland,Australia,0
+2017,T,Ireland,Austria,0
+2017,T,Ireland,Azerbaijan,0
+2017,T,Ireland,Belarus,0
+2017,T,Ireland,Belgium,5
+2017,T,Ireland,Bulgaria,6
+2017,T,Ireland,Croatia,3
+2017,T,Ireland,Cyprus,0
+2017,T,Ireland,Denmark,0
+2017,T,Ireland,France,0
+2017,T,Ireland,Germany,0
+2017,T,Ireland,Greece,0
+2017,T,Ireland,Hungary,2
+2017,T,Ireland,Israel,0
+2017,T,Ireland,Italy,1
+2017,T,Ireland,Moldova,8
+2017,T,Ireland,Norway,0
+2017,T,Ireland,Poland,7
+2017,T,Ireland,Portugal,10
+2017,T,Ireland,Romania,12
+2017,T,Ireland,Spain,0
+2017,T,Ireland,Sweden,0
+2017,T,Ireland,The Netherlands,0
+2017,T,Ireland,Ukraine,0
+2017,T,Ireland,United Kingdom,4
+2017,T,Israel,Armenia,0
+2017,T,Israel,Australia,0
+2017,T,Israel,Austria,0
+2017,T,Israel,Azerbaijan,0
+2017,T,Israel,Belarus,2
+2017,T,Israel,Belgium,6
+2017,T,Israel,Bulgaria,10
+2017,T,Israel,Croatia,0
+2017,T,Israel,Cyprus,0
+2017,T,Israel,Denmark,0
+2017,T,Israel,France,4
+2017,T,Israel,Germany,0
+2017,T,Israel,Greece,0
+2017,T,Israel,Hungary,1
+2017,T,Israel,Italy,8
+2017,T,Israel,Moldova,5
+2017,T,Israel,Norway,0
+2017,T,Israel,Poland,0
+2017,T,Israel,Portugal,12
+2017,T,Israel,Romania,7
+2017,T,Israel,Spain,0
+2017,T,Israel,Sweden,3
+2017,T,Israel,The Netherlands,0
+2017,T,Israel,Ukraine,0
+2017,T,Israel,United Kingdom,0
+2017,T,Italy,Armenia,0
+2017,T,Italy,Australia,0
+2017,T,Italy,Austria,0
+2017,T,Italy,Azerbaijan,0
+2017,T,Italy,Belarus,0
+2017,T,Italy,Belgium,2
+2017,T,Italy,Bulgaria,8
+2017,T,Italy,Croatia,6
+2017,T,Italy,Cyprus,0
+2017,T,Italy,Denmark,0
+2017,T,Italy,France,1
+2017,T,Italy,Germany,0
+2017,T,Italy,Greece,0
+2017,T,Italy,Hungary,4
+2017,T,Italy,Israel,0
+2017,T,Italy,Moldova,12
+2017,T,Italy,Norway,0
+2017,T,Italy,Poland,3
+2017,T,Italy,Portugal,5
+2017,T,Italy,Romania,10
+2017,T,Italy,Spain,0
+2017,T,Italy,Sweden,0
+2017,T,Italy,The Netherlands,0
+2017,T,Italy,Ukraine,7
+2017,T,Italy,United Kingdom,0
+2017,T,Latvia,Armenia,0
+2017,T,Latvia,Australia,0
+2017,T,Latvia,Austria,0
+2017,T,Latvia,Azerbaijan,0
+2017,T,Latvia,Belarus,6
+2017,T,Latvia,Belgium,12
+2017,T,Latvia,Bulgaria,7
+2017,T,Latvia,Croatia,0
+2017,T,Latvia,Cyprus,0
+2017,T,Latvia,Denmark,0
+2017,T,Latvia,France,0
+2017,T,Latvia,Germany,0
+2017,T,Latvia,Greece,0
+2017,T,Latvia,Hungary,2
+2017,T,Latvia,Israel,0
+2017,T,Latvia,Italy,3
+2017,T,Latvia,Moldova,8
+2017,T,Latvia,Norway,1
+2017,T,Latvia,Poland,0
+2017,T,Latvia,Portugal,10
+2017,T,Latvia,Romania,5
+2017,T,Latvia,Spain,0
+2017,T,Latvia,Sweden,4
+2017,T,Latvia,The Netherlands,0
+2017,T,Latvia,Ukraine,0
+2017,T,Latvia,United Kingdom,0
+2017,T,Lithuania,Armenia,0
+2017,T,Lithuania,Australia,0
+2017,T,Lithuania,Austria,0
+2017,T,Lithuania,Azerbaijan,0
+2017,T,Lithuania,Belarus,1
+2017,T,Lithuania,Belgium,10
+2017,T,Lithuania,Bulgaria,7
+2017,T,Lithuania,Croatia,0
+2017,T,Lithuania,Cyprus,0
+2017,T,Lithuania,Denmark,0
+2017,T,Lithuania,France,0
+2017,T,Lithuania,Germany,0
+2017,T,Lithuania,Greece,0
+2017,T,Lithuania,Hungary,2
+2017,T,Lithuania,Israel,0
+2017,T,Lithuania,Italy,5
+2017,T,Lithuania,Moldova,8
+2017,T,Lithuania,Norway,6
+2017,T,Lithuania,Poland,0
+2017,T,Lithuania,Portugal,12
+2017,T,Lithuania,Romania,4
+2017,T,Lithuania,Spain,0
+2017,T,Lithuania,Sweden,3
+2017,T,Lithuania,The Netherlands,0
+2017,T,Lithuania,Ukraine,0
+2017,T,Lithuania,United Kingdom,0
+2017,T,Malta,Armenia,0
+2017,T,Malta,Australia,0
+2017,T,Malta,Austria,0
+2017,T,Malta,Azerbaijan,0
+2017,T,Malta,Belarus,0
+2017,T,Malta,Belgium,5
+2017,T,Malta,Bulgaria,10
+2017,T,Malta,Croatia,3
+2017,T,Malta,Cyprus,0
+2017,T,Malta,Denmark,0
+2017,T,Malta,France,0
+2017,T,Malta,Germany,0
+2017,T,Malta,Greece,0
+2017,T,Malta,Hungary,2
+2017,T,Malta,Israel,0
+2017,T,Malta,Italy,12
+2017,T,Malta,Moldova,1
+2017,T,Malta,Norway,0
+2017,T,Malta,Poland,0
+2017,T,Malta,Portugal,8
+2017,T,Malta,Romania,6
+2017,T,Malta,Spain,0
+2017,T,Malta,Sweden,7
+2017,T,Malta,The Netherlands,0
+2017,T,Malta,Ukraine,0
+2017,T,Malta,United Kingdom,4
+2017,T,Moldova,Armenia,0
+2017,T,Moldova,Australia,0
+2017,T,Moldova,Austria,0
+2017,T,Moldova,Azerbaijan,10
+2017,T,Moldova,Belarus,1
+2017,T,Moldova,Belgium,2
+2017,T,Moldova,Bulgaria,8
+2017,T,Moldova,Croatia,0
+2017,T,Moldova,Cyprus,0
+2017,T,Moldova,Denmark,0
+2017,T,Moldova,France,5
+2017,T,Moldova,Germany,0
+2017,T,Moldova,Greece,7
+2017,T,Moldova,Hungary,0
+2017,T,Moldova,Israel,0
+2017,T,Moldova,Italy,4
+2017,T,Moldova,Norway,0
+2017,T,Moldova,Poland,0
+2017,T,Moldova,Portugal,6
+2017,T,Moldova,Romania,12
+2017,T,Moldova,Spain,0
+2017,T,Moldova,Sweden,3
+2017,T,Moldova,The Netherlands,0
+2017,T,Moldova,Ukraine,0
+2017,T,Moldova,United Kingdom,0
+2017,T,Montenegro,Armenia,0
+2017,T,Montenegro,Australia,0
+2017,T,Montenegro,Austria,0
+2017,T,Montenegro,Azerbaijan,5
+2017,T,Montenegro,Belarus,0
+2017,T,Montenegro,Belgium,4
+2017,T,Montenegro,Bulgaria,6
+2017,T,Montenegro,Croatia,12
+2017,T,Montenegro,Cyprus,1
+2017,T,Montenegro,Denmark,0
+2017,T,Montenegro,France,2
+2017,T,Montenegro,Germany,0
+2017,T,Montenegro,Greece,0
+2017,T,Montenegro,Hungary,7
+2017,T,Montenegro,Israel,0
+2017,T,Montenegro,Italy,10
+2017,T,Montenegro,Moldova,3
+2017,T,Montenegro,Norway,0
+2017,T,Montenegro,Poland,0
+2017,T,Montenegro,Portugal,8
+2017,T,Montenegro,Romania,0
+2017,T,Montenegro,Spain,0
+2017,T,Montenegro,Sweden,0
+2017,T,Montenegro,The Netherlands,0
+2017,T,Montenegro,Ukraine,0
+2017,T,Montenegro,United Kingdom,0
+2017,T,Norway,Armenia,0
+2017,T,Norway,Australia,0
+2017,T,Norway,Austria,0
+2017,T,Norway,Azerbaijan,0
+2017,T,Norway,Belarus,0
+2017,T,Norway,Belgium,7
+2017,T,Norway,Bulgaria,8
+2017,T,Norway,Croatia,1
+2017,T,Norway,Cyprus,0
+2017,T,Norway,Denmark,0
+2017,T,Norway,France,0
+2017,T,Norway,Germany,0
+2017,T,Norway,Greece,0
+2017,T,Norway,Hungary,4
+2017,T,Norway,Israel,0
+2017,T,Norway,Italy,2
+2017,T,Norway,Moldova,6
+2017,T,Norway,Poland,3
+2017,T,Norway,Portugal,12
+2017,T,Norway,Romania,10
+2017,T,Norway,Spain,0
+2017,T,Norway,Sweden,5
+2017,T,Norway,The Netherlands,0
+2017,T,Norway,Ukraine,0
+2017,T,Norway,United Kingdom,0
+2017,T,Poland,Armenia,0
+2017,T,Poland,Australia,0
+2017,T,Poland,Austria,0
+2017,T,Poland,Azerbaijan,0
+2017,T,Poland,Belarus,4
+2017,T,Poland,Belgium,12
+2017,T,Poland,Bulgaria,8
+2017,T,Poland,Croatia,1
+2017,T,Poland,Cyprus,0
+2017,T,Poland,Denmark,0
+2017,T,Poland,France,0
+2017,T,Poland,Germany,0
+2017,T,Poland,Greece,0
+2017,T,Poland,Hungary,5
+2017,T,Poland,Israel,0
+2017,T,Poland,Italy,0
+2017,T,Poland,Moldova,6
+2017,T,Poland,Norway,0
+2017,T,Poland,Portugal,10
+2017,T,Poland,Romania,7
+2017,T,Poland,Spain,0
+2017,T,Poland,Sweden,3
+2017,T,Poland,The Netherlands,0
+2017,T,Poland,Ukraine,2
+2017,T,Poland,United Kingdom,0
+2017,T,Portugal,Armenia,0
+2017,T,Portugal,Australia,0
+2017,T,Portugal,Austria,0
+2017,T,Portugal,Azerbaijan,0
+2017,T,Portugal,Belarus,0
+2017,T,Portugal,Belgium,10
+2017,T,Portugal,Bulgaria,8
+2017,T,Portugal,Croatia,0
+2017,T,Portugal,Cyprus,0
+2017,T,Portugal,Denmark,0
+2017,T,Portugal,France,6
+2017,T,Portugal,Germany,0
+2017,T,Portugal,Greece,0
+2017,T,Portugal,Hungary,2
+2017,T,Portugal,Israel,0
+2017,T,Portugal,Italy,4
+2017,T,Portugal,Moldova,12
+2017,T,Portugal,Norway,0
+2017,T,Portugal,Poland,0
+2017,T,Portugal,Romania,7
+2017,T,Portugal,Spain,5
+2017,T,Portugal,Sweden,1
+2017,T,Portugal,The Netherlands,0
+2017,T,Portugal,Ukraine,3
+2017,T,Portugal,United Kingdom,0
+2017,T,Romania,Armenia,0
+2017,T,Romania,Australia,0
+2017,T,Romania,Austria,0
+2017,T,Romania,Azerbaijan,0
+2017,T,Romania,Belarus,0
+2017,T,Romania,Belgium,5
+2017,T,Romania,Bulgaria,8
+2017,T,Romania,Croatia,3
+2017,T,Romania,Cyprus,0
+2017,T,Romania,Denmark,0
+2017,T,Romania,France,4
+2017,T,Romania,Germany,0
+2017,T,Romania,Greece,1
+2017,T,Romania,Hungary,10
+2017,T,Romania,Israel,0
+2017,T,Romania,Italy,6
+2017,T,Romania,Moldova,12
+2017,T,Romania,Norway,0
+2017,T,Romania,Poland,0
+2017,T,Romania,Portugal,7
+2017,T,Romania,Spain,0
+2017,T,Romania,Sweden,2
+2017,T,Romania,The Netherlands,0
+2017,T,Romania,Ukraine,0
+2017,T,Romania,United Kingdom,0
+2017,T,San Marino,Armenia,0
+2017,T,San Marino,Australia,0
+2017,T,San Marino,Austria,0
+2017,T,San Marino,Azerbaijan,1
+2017,T,San Marino,Belarus,0
+2017,T,San Marino,Belgium,5
+2017,T,San Marino,Bulgaria,12
+2017,T,San Marino,Croatia,3
+2017,T,San Marino,Cyprus,0
+2017,T,San Marino,Denmark,0
+2017,T,San Marino,France,0
+2017,T,San Marino,Germany,0
+2017,T,San Marino,Greece,0
+2017,T,San Marino,Hungary,4
+2017,T,San Marino,Israel,0
+2017,T,San Marino,Italy,10
+2017,T,San Marino,Moldova,8
+2017,T,San Marino,Norway,0
+2017,T,San Marino,Poland,0
+2017,T,San Marino,Portugal,7
+2017,T,San Marino,Romania,6
+2017,T,San Marino,Spain,0
+2017,T,San Marino,Sweden,2
+2017,T,San Marino,The Netherlands,0
+2017,T,San Marino,Ukraine,0
+2017,T,San Marino,United Kingdom,0
+2017,T,Serbia,Armenia,0
+2017,T,Serbia,Australia,0
+2017,T,Serbia,Austria,0
+2017,T,Serbia,Azerbaijan,0
+2017,T,Serbia,Belarus,0
+2017,T,Serbia,Belgium,3
+2017,T,Serbia,Bulgaria,10
+2017,T,Serbia,Croatia,5
+2017,T,Serbia,Cyprus,0
+2017,T,Serbia,Denmark,0
+2017,T,Serbia,France,2
+2017,T,Serbia,Germany,0
+2017,T,Serbia,Greece,0
+2017,T,Serbia,Hungary,12
+2017,T,Serbia,Israel,0
+2017,T,Serbia,Italy,6
+2017,T,Serbia,Moldova,7
+2017,T,Serbia,Norway,0
+2017,T,Serbia,Poland,0
+2017,T,Serbia,Portugal,8
+2017,T,Serbia,Romania,4
+2017,T,Serbia,Spain,0
+2017,T,Serbia,Sweden,1
+2017,T,Serbia,The Netherlands,0
+2017,T,Serbia,Ukraine,0
+2017,T,Serbia,United Kingdom,0
+2017,T,Slovenia,Armenia,0
+2017,T,Slovenia,Australia,0
+2017,T,Slovenia,Austria,0
+2017,T,Slovenia,Azerbaijan,4
+2017,T,Slovenia,Belarus,0
+2017,T,Slovenia,Belgium,6
+2017,T,Slovenia,Bulgaria,7
+2017,T,Slovenia,Croatia,12
+2017,T,Slovenia,Cyprus,0
+2017,T,Slovenia,Denmark,0
+2017,T,Slovenia,France,0
+2017,T,Slovenia,Germany,0
+2017,T,Slovenia,Greece,0
+2017,T,Slovenia,Hungary,5
+2017,T,Slovenia,Israel,0
+2017,T,Slovenia,Italy,10
+2017,T,Slovenia,Moldova,3
+2017,T,Slovenia,Norway,0
+2017,T,Slovenia,Poland,0
+2017,T,Slovenia,Portugal,8
+2017,T,Slovenia,Romania,2
+2017,T,Slovenia,Spain,0
+2017,T,Slovenia,Sweden,1
+2017,T,Slovenia,The Netherlands,0
+2017,T,Slovenia,Ukraine,0
+2017,T,Slovenia,United Kingdom,0
+2017,T,Spain,Armenia,0
+2017,T,Spain,Australia,0
+2017,T,Spain,Austria,0
+2017,T,Spain,Azerbaijan,0
+2017,T,Spain,Belarus,0
+2017,T,Spain,Belgium,4
+2017,T,Spain,Bulgaria,10
+2017,T,Spain,Croatia,0
+2017,T,Spain,Cyprus,0
+2017,T,Spain,Denmark,0
+2017,T,Spain,France,3
+2017,T,Spain,Germany,0
+2017,T,Spain,Greece,0
+2017,T,Spain,Hungary,0
+2017,T,Spain,Israel,0
+2017,T,Spain,Italy,8
+2017,T,Spain,Moldova,6
+2017,T,Spain,Norway,0
+2017,T,Spain,Poland,0
+2017,T,Spain,Portugal,12
+2017,T,Spain,Romania,7
+2017,T,Spain,Sweden,5
+2017,T,Spain,The Netherlands,2
+2017,T,Spain,Ukraine,0
+2017,T,Spain,United Kingdom,1
+2017,T,Sweden,Armenia,0
+2017,T,Sweden,Australia,0
+2017,T,Sweden,Austria,0
+2017,T,Sweden,Azerbaijan,0
+2017,T,Sweden,Belarus,0
+2017,T,Sweden,Belgium,12
+2017,T,Sweden,Bulgaria,7
+2017,T,Sweden,Croatia,2
+2017,T,Sweden,Cyprus,0
+2017,T,Sweden,Denmark,0
+2017,T,Sweden,France,0
+2017,T,Sweden,Germany,0
+2017,T,Sweden,Greece,0
+2017,T,Sweden,Hungary,4
+2017,T,Sweden,Israel,0
+2017,T,Sweden,Italy,1
+2017,T,Sweden,Moldova,8
+2017,T,Sweden,Norway,6
+2017,T,Sweden,Poland,5
+2017,T,Sweden,Portugal,10
+2017,T,Sweden,Romania,3
+2017,T,Sweden,Spain,0
+2017,T,Sweden,The Netherlands,0
+2017,T,Sweden,Ukraine,0
+2017,T,Sweden,United Kingdom,0
+2017,T,Switzerland,Armenia,0
+2017,T,Switzerland,Australia,0
+2017,T,Switzerland,Austria,0
+2017,T,Switzerland,Azerbaijan,0
+2017,T,Switzerland,Belarus,0
+2017,T,Switzerland,Belgium,7
+2017,T,Switzerland,Bulgaria,6
+2017,T,Switzerland,Croatia,8
+2017,T,Switzerland,Cyprus,0
+2017,T,Switzerland,Denmark,0
+2017,T,Switzerland,France,2
+2017,T,Switzerland,Germany,3
+2017,T,Switzerland,Greece,0
+2017,T,Switzerland,Hungary,5
+2017,T,Switzerland,Israel,0
+2017,T,Switzerland,Italy,10
+2017,T,Switzerland,Moldova,0
+2017,T,Switzerland,Norway,0
+2017,T,Switzerland,Poland,0
+2017,T,Switzerland,Portugal,12
+2017,T,Switzerland,Romania,4
+2017,T,Switzerland,Spain,0
+2017,T,Switzerland,Sweden,1
+2017,T,Switzerland,The Netherlands,0
+2017,T,Switzerland,Ukraine,0
+2017,T,Switzerland,United Kingdom,0
+2017,T,The Netherlands,Armenia,0
+2017,T,The Netherlands,Australia,0
+2017,T,The Netherlands,Austria,0
+2017,T,The Netherlands,Azerbaijan,0
+2017,T,The Netherlands,Belarus,0
+2017,T,The Netherlands,Belgium,10
+2017,T,The Netherlands,Bulgaria,8
+2017,T,The Netherlands,Croatia,3
+2017,T,The Netherlands,Cyprus,0
+2017,T,The Netherlands,Denmark,0
+2017,T,The Netherlands,France,0
+2017,T,The Netherlands,Germany,0
+2017,T,The Netherlands,Greece,0
+2017,T,The Netherlands,Hungary,6
+2017,T,The Netherlands,Israel,0
+2017,T,The Netherlands,Italy,2
+2017,T,The Netherlands,Moldova,5
+2017,T,The Netherlands,Norway,0
+2017,T,The Netherlands,Poland,1
+2017,T,The Netherlands,Portugal,12
+2017,T,The Netherlands,Romania,7
+2017,T,The Netherlands,Spain,0
+2017,T,The Netherlands,Sweden,4
+2017,T,The Netherlands,Ukraine,0
+2017,T,The Netherlands,United Kingdom,0
+2017,T,Ukraine,Armenia,0
+2017,T,Ukraine,Australia,0
+2017,T,Ukraine,Austria,0
+2017,T,Ukraine,Azerbaijan,0
+2017,T,Ukraine,Belarus,8
+2017,T,Ukraine,Belgium,5
+2017,T,Ukraine,Bulgaria,2
+2017,T,Ukraine,Croatia,0
+2017,T,Ukraine,Cyprus,0
+2017,T,Ukraine,Denmark,0
+2017,T,Ukraine,France,6
+2017,T,Ukraine,Germany,0
+2017,T,Ukraine,Greece,0
+2017,T,Ukraine,Hungary,4
+2017,T,Ukraine,Israel,0
+2017,T,Ukraine,Italy,0
+2017,T,Ukraine,Moldova,12
+2017,T,Ukraine,Norway,1
+2017,T,Ukraine,Poland,0
+2017,T,Ukraine,Portugal,10
+2017,T,Ukraine,Romania,3
+2017,T,Ukraine,Spain,0
+2017,T,Ukraine,Sweden,7
+2017,T,Ukraine,The Netherlands,0
+2017,T,Ukraine,United Kingdom,0
+2017,T,United Kingdom,Armenia,0
+2017,T,United Kingdom,Australia,0
+2017,T,United Kingdom,Austria,0
+2017,T,United Kingdom,Azerbaijan,0
+2017,T,United Kingdom,Belarus,0
+2017,T,United Kingdom,Belgium,3
+2017,T,United Kingdom,Bulgaria,12
+2017,T,United Kingdom,Croatia,5
+2017,T,United Kingdom,Cyprus,0
+2017,T,United Kingdom,Denmark,0
+2017,T,United Kingdom,France,0
+2017,T,United Kingdom,Germany,0
+2017,T,United Kingdom,Greece,0
+2017,T,United Kingdom,Hungary,1
+2017,T,United Kingdom,Israel,0
+2017,T,United Kingdom,Italy,2
+2017,T,United Kingdom,Moldova,6
+2017,T,United Kingdom,Norway,0
+2017,T,United Kingdom,Poland,10
+2017,T,United Kingdom,Portugal,8
+2017,T,United Kingdom,Romania,7
+2017,T,United Kingdom,Spain,0
+2017,T,United Kingdom,Sweden,4
+2017,T,United Kingdom,The Netherlands,0
+2017,T,United Kingdom,Ukraine,0
+2018,T,Albania,Australia,0
+2018,T,Albania,Austria,2
+2018,T,Albania,Bulgaria,6
+2018,T,Albania,Cyprus,10
+2018,T,Albania,Czech Republic,0
+2018,T,Albania,Denmark,0
+2018,T,Albania,Estonia,4
+2018,T,Albania,Finland,0
+2018,T,Albania,France,5
+2018,T,Albania,Germany,8
+2018,T,Albania,Hungary,0
+2018,T,Albania,Ireland,7
+2018,T,Albania,Israel,1
+2018,T,Albania,Italy,12
+2018,T,Albania,Lithuania,0
+2018,T,Albania,Moldova,0
+2018,T,Albania,Norway,0
+2018,T,Albania,Portugal,0
+2018,T,Albania,Serbia,0
+2018,T,Albania,Slovenia,0
+2018,T,Albania,Spain,0
+2018,T,Albania,Sweden,0
+2018,T,Albania,The Netherlands,0
+2018,T,Albania,Ukraine,0
+2018,T,Albania,United Kingdom,3
+2018,T,Armenia,Albania,0
+2018,T,Armenia,Australia,0
+2018,T,Armenia,Austria,6
+2018,T,Armenia,Bulgaria,0
+2018,T,Armenia,Cyprus,12
+2018,T,Armenia,Czech Republic,8
+2018,T,Armenia,Denmark,0
+2018,T,Armenia,Estonia,2
+2018,T,Armenia,Finland,0
+2018,T,Armenia,France,5
+2018,T,Armenia,Germany,0
+2018,T,Armenia,Hungary,0
+2018,T,Armenia,Ireland,0
+2018,T,Armenia,Israel,10
+2018,T,Armenia,Italy,3
+2018,T,Armenia,Lithuania,0
+2018,T,Armenia,Moldova,1
+2018,T,Armenia,Norway,7
+2018,T,Armenia,Portugal,0
+2018,T,Armenia,Serbia,0
+2018,T,Armenia,Slovenia,0
+2018,T,Armenia,Spain,0
+2018,T,Armenia,Sweden,0
+2018,T,Armenia,The Netherlands,0
+2018,T,Armenia,Ukraine,4
+2018,T,Armenia,United Kingdom,0
+2018,T,Australia,Albania,0
+2018,T,Australia,Austria,0
+2018,T,Australia,Bulgaria,0
+2018,T,Australia,Cyprus,7
+2018,T,Australia,Czech Republic,3
+2018,T,Australia,Denmark,10
+2018,T,Australia,Estonia,0
+2018,T,Australia,Finland,4
+2018,T,Australia,France,0
+2018,T,Australia,Germany,2
+2018,T,Australia,Hungary,0
+2018,T,Australia,Ireland,8
+2018,T,Australia,Israel,12
+2018,T,Australia,Italy,0
+2018,T,Australia,Lithuania,0
+2018,T,Australia,Moldova,5
+2018,T,Australia,Norway,1
+2018,T,Australia,Portugal,0
+2018,T,Australia,Serbia,0
+2018,T,Australia,Slovenia,0
+2018,T,Australia,Spain,0
+2018,T,Australia,Sweden,0
+2018,T,Australia,The Netherlands,0
+2018,T,Australia,Ukraine,0
+2018,T,Australia,United Kingdom,6
+2018,T,Austria,Albania,2
+2018,T,Austria,Australia,0
+2018,T,Austria,Bulgaria,0
+2018,T,Austria,Cyprus,1
+2018,T,Austria,Czech Republic,12
+2018,T,Austria,Denmark,5
+2018,T,Austria,Estonia,0
+2018,T,Austria,Finland,0
+2018,T,Austria,France,0
+2018,T,Austria,Germany,6
+2018,T,Austria,Hungary,3
+2018,T,Austria,Ireland,4
+2018,T,Austria,Israel,7
+2018,T,Austria,Italy,10
+2018,T,Austria,Lithuania,0
+2018,T,Austria,Moldova,0
+2018,T,Austria,Norway,0
+2018,T,Austria,Portugal,0
+2018,T,Austria,Serbia,8
+2018,T,Austria,Slovenia,0
+2018,T,Austria,Spain,0
+2018,T,Austria,Sweden,0
+2018,T,Austria,The Netherlands,0
+2018,T,Austria,Ukraine,0
+2018,T,Austria,United Kingdom,0
+2018,T,Azerbaijan,Albania,0
+2018,T,Azerbaijan,Australia,0
+2018,T,Azerbaijan,Austria,0
+2018,T,Azerbaijan,Bulgaria,1
+2018,T,Azerbaijan,Cyprus,10
+2018,T,Azerbaijan,Czech Republic,6
+2018,T,Azerbaijan,Denmark,0
+2018,T,Azerbaijan,Estonia,0
+2018,T,Azerbaijan,Finland,0
+2018,T,Azerbaijan,France,0
+2018,T,Azerbaijan,Germany,3
+2018,T,Azerbaijan,Hungary,0
+2018,T,Azerbaijan,Ireland,0
+2018,T,Azerbaijan,Israel,12
+2018,T,Azerbaijan,Italy,5
+2018,T,Azerbaijan,Lithuania,0
+2018,T,Azerbaijan,Moldova,4
+2018,T,Azerbaijan,Norway,7
+2018,T,Azerbaijan,Portugal,0
+2018,T,Azerbaijan,Serbia,0
+2018,T,Azerbaijan,Slovenia,0
+2018,T,Azerbaijan,Spain,0
+2018,T,Azerbaijan,Sweden,2
+2018,T,Azerbaijan,The Netherlands,0
+2018,T,Azerbaijan,Ukraine,8
+2018,T,Azerbaijan,United Kingdom,0
+2018,T,Belarus,Albania,0
+2018,T,Belarus,Australia,0
+2018,T,Belarus,Austria,0
+2018,T,Belarus,Bulgaria,1
+2018,T,Belarus,Cyprus,3
+2018,T,Belarus,Czech Republic,5
+2018,T,Belarus,Denmark,7
+2018,T,Belarus,Estonia,0
+2018,T,Belarus,Finland,0
+2018,T,Belarus,France,0
+2018,T,Belarus,Germany,0
+2018,T,Belarus,Hungary,2
+2018,T,Belarus,Ireland,0
+2018,T,Belarus,Israel,8
+2018,T,Belarus,Italy,4
+2018,T,Belarus,Lithuania,0
+2018,T,Belarus,Moldova,6
+2018,T,Belarus,Norway,10
+2018,T,Belarus,Portugal,0
+2018,T,Belarus,Serbia,0
+2018,T,Belarus,Slovenia,0
+2018,T,Belarus,Spain,0
+2018,T,Belarus,Sweden,0
+2018,T,Belarus,The Netherlands,0
+2018,T,Belarus,Ukraine,12
+2018,T,Belarus,United Kingdom,0
+2018,T,Belgium,Albania,0
+2018,T,Belgium,Australia,0
+2018,T,Belgium,Austria,3
+2018,T,Belgium,Bulgaria,0
+2018,T,Belgium,Cyprus,7
+2018,T,Belgium,Czech Republic,1
+2018,T,Belgium,Denmark,5
+2018,T,Belgium,Estonia,0
+2018,T,Belgium,Finland,0
+2018,T,Belgium,France,8
+2018,T,Belgium,Germany,2
+2018,T,Belgium,Hungary,0
+2018,T,Belgium,Ireland,4
+2018,T,Belgium,Israel,10
+2018,T,Belgium,Italy,6
+2018,T,Belgium,Lithuania,0
+2018,T,Belgium,Moldova,0
+2018,T,Belgium,Norway,0
+2018,T,Belgium,Portugal,0
+2018,T,Belgium,Serbia,0
+2018,T,Belgium,Slovenia,0
+2018,T,Belgium,Spain,0
+2018,T,Belgium,Sweden,0
+2018,T,Belgium,The Netherlands,12
+2018,T,Belgium,Ukraine,0
+2018,T,Belgium,United Kingdom,0
+2018,T,Bulgaria,Albania,0
+2018,T,Bulgaria,Australia,0
+2018,T,Bulgaria,Austria,4
+2018,T,Bulgaria,Cyprus,12
+2018,T,Bulgaria,Czech Republic,3
+2018,T,Bulgaria,Denmark,0
+2018,T,Bulgaria,Estonia,2
+2018,T,Bulgaria,Finland,0
+2018,T,Bulgaria,France,0
+2018,T,Bulgaria,Germany,0
+2018,T,Bulgaria,Hungary,5
+2018,T,Bulgaria,Ireland,0
+2018,T,Bulgaria,Israel,10
+2018,T,Bulgaria,Italy,6
+2018,T,Bulgaria,Lithuania,0
+2018,T,Bulgaria,Moldova,8
+2018,T,Bulgaria,Norway,0
+2018,T,Bulgaria,Portugal,0
+2018,T,Bulgaria,Serbia,7
+2018,T,Bulgaria,Slovenia,0
+2018,T,Bulgaria,Spain,0
+2018,T,Bulgaria,Sweden,0
+2018,T,Bulgaria,The Netherlands,0
+2018,T,Bulgaria,Ukraine,1
+2018,T,Bulgaria,United Kingdom,0
+2018,T,Croatia,Albania,4
+2018,T,Croatia,Australia,0
+2018,T,Croatia,Austria,0
+2018,T,Croatia,Bulgaria,1
+2018,T,Croatia,Cyprus,8
+2018,T,Croatia,Czech Republic,5
+2018,T,Croatia,Denmark,2
+2018,T,Croatia,Estonia,0
+2018,T,Croatia,Finland,0
+2018,T,Croatia,France,0
+2018,T,Croatia,Germany,3
+2018,T,Croatia,Hungary,0
+2018,T,Croatia,Ireland,0
+2018,T,Croatia,Israel,6
+2018,T,Croatia,Italy,10
+2018,T,Croatia,Lithuania,0
+2018,T,Croatia,Moldova,0
+2018,T,Croatia,Norway,0
+2018,T,Croatia,Portugal,0
+2018,T,Croatia,Serbia,12
+2018,T,Croatia,Slovenia,7
+2018,T,Croatia,Spain,0
+2018,T,Croatia,Sweden,0
+2018,T,Croatia,The Netherlands,0
+2018,T,Croatia,Ukraine,0
+2018,T,Croatia,United Kingdom,0
+2018,T,Cyprus,Albania,0
+2018,T,Cyprus,Australia,0
+2018,T,Cyprus,Austria,0
+2018,T,Cyprus,Bulgaria,12
+2018,T,Cyprus,Czech Republic,8
+2018,T,Cyprus,Denmark,0
+2018,T,Cyprus,Estonia,4
+2018,T,Cyprus,Finland,0
+2018,T,Cyprus,France,1
+2018,T,Cyprus,Germany,3
+2018,T,Cyprus,Hungary,0
+2018,T,Cyprus,Ireland,0
+2018,T,Cyprus,Israel,10
+2018,T,Cyprus,Italy,7
+2018,T,Cyprus,Lithuania,6
+2018,T,Cyprus,Moldova,0
+2018,T,Cyprus,Norway,5
+2018,T,Cyprus,Portugal,0
+2018,T,Cyprus,Serbia,0
+2018,T,Cyprus,Slovenia,0
+2018,T,Cyprus,Spain,0
+2018,T,Cyprus,Sweden,0
+2018,T,Cyprus,The Netherlands,0
+2018,T,Cyprus,Ukraine,2
+2018,T,Cyprus,United Kingdom,0
+2018,T,Czech Republic,Albania,0
+2018,T,Czech Republic,Australia,0
+2018,T,Czech Republic,Austria,0
+2018,T,Czech Republic,Bulgaria,1
+2018,T,Czech Republic,Cyprus,8
+2018,T,Czech Republic,Denmark,7
+2018,T,Czech Republic,Estonia,5
+2018,T,Czech Republic,Finland,0
+2018,T,Czech Republic,France,0
+2018,T,Czech Republic,Germany,3
+2018,T,Czech Republic,Hungary,0
+2018,T,Czech Republic,Ireland,4
+2018,T,Czech Republic,Israel,10
+2018,T,Czech Republic,Italy,2
+2018,T,Czech Republic,Lithuania,0
+2018,T,Czech Republic,Moldova,6
+2018,T,Czech Republic,Norway,0
+2018,T,Czech Republic,Portugal,0
+2018,T,Czech Republic,Serbia,0
+2018,T,Czech Republic,Slovenia,0
+2018,T,Czech Republic,Spain,0
+2018,T,Czech Republic,Sweden,0
+2018,T,Czech Republic,The Netherlands,0
+2018,T,Czech Republic,Ukraine,12
+2018,T,Czech Republic,United Kingdom,0
+2018,T,Denmark,Albania,0
+2018,T,Denmark,Australia,2
+2018,T,Denmark,Austria,10
+2018,T,Denmark,Bulgaria,0
+2018,T,Denmark,Cyprus,1
+2018,T,Denmark,Czech Republic,6
+2018,T,Denmark,Estonia,0
+2018,T,Denmark,Finland,0
+2018,T,Denmark,France,0
+2018,T,Denmark,Germany,12
+2018,T,Denmark,Hungary,0
+2018,T,Denmark,Ireland,4
+2018,T,Denmark,Israel,0
+2018,T,Denmark,Italy,0
+2018,T,Denmark,Lithuania,0
+2018,T,Denmark,Moldova,0
+2018,T,Denmark,Norway,8
+2018,T,Denmark,Portugal,0
+2018,T,Denmark,Serbia,0
+2018,T,Denmark,Slovenia,0
+2018,T,Denmark,Spain,0
+2018,T,Denmark,Sweden,7
+2018,T,Denmark,The Netherlands,5
+2018,T,Denmark,Ukraine,0
+2018,T,Denmark,United Kingdom,3
+2018,T,Estonia,Albania,0
+2018,T,Estonia,Australia,0
+2018,T,Estonia,Austria,6
+2018,T,Estonia,Bulgaria,0
+2018,T,Estonia,Cyprus,4
+2018,T,Estonia,Czech Republic,5
+2018,T,Estonia,Denmark,8
+2018,T,Estonia,Finland,10
+2018,T,Estonia,France,0
+2018,T,Estonia,Germany,0
+2018,T,Estonia,Hungary,3
+2018,T,Estonia,Ireland,0
+2018,T,Estonia,Israel,0
+2018,T,Estonia,Italy,7
+2018,T,Estonia,Lithuania,12
+2018,T,Estonia,Moldova,1
+2018,T,Estonia,Norway,2
+2018,T,Estonia,Portugal,0
+2018,T,Estonia,Serbia,0
+2018,T,Estonia,Slovenia,0
+2018,T,Estonia,Spain,0
+2018,T,Estonia,Sweden,0
+2018,T,Estonia,The Netherlands,0
+2018,T,Estonia,Ukraine,0
+2018,T,Estonia,United Kingdom,0
+2018,T,F.Y.R. Macedonia,Albania,12
+2018,T,F.Y.R. Macedonia,Australia,0
+2018,T,F.Y.R. Macedonia,Austria,0
+2018,T,F.Y.R. Macedonia,Bulgaria,7
+2018,T,F.Y.R. Macedonia,Cyprus,8
+2018,T,F.Y.R. Macedonia,Czech Republic,5
+2018,T,F.Y.R. Macedonia,Denmark,0
+2018,T,F.Y.R. Macedonia,Estonia,0
+2018,T,F.Y.R. Macedonia,Finland,0
+2018,T,F.Y.R. Macedonia,France,0
+2018,T,F.Y.R. Macedonia,Germany,0
+2018,T,F.Y.R. Macedonia,Hungary,0
+2018,T,F.Y.R. Macedonia,Ireland,0
+2018,T,F.Y.R. Macedonia,Israel,3
+2018,T,F.Y.R. Macedonia,Italy,6
+2018,T,F.Y.R. Macedonia,Lithuania,0
+2018,T,F.Y.R. Macedonia,Moldova,1
+2018,T,F.Y.R. Macedonia,Norway,0
+2018,T,F.Y.R. Macedonia,Portugal,0
+2018,T,F.Y.R. Macedonia,Serbia,10
+2018,T,F.Y.R. Macedonia,Slovenia,2
+2018,T,F.Y.R. Macedonia,Spain,0
+2018,T,F.Y.R. Macedonia,Sweden,0
+2018,T,F.Y.R. Macedonia,The Netherlands,0
+2018,T,F.Y.R. Macedonia,Ukraine,4
+2018,T,F.Y.R. Macedonia,United Kingdom,0
+2018,T,Finland,Albania,0
+2018,T,Finland,Australia,0
+2018,T,Finland,Austria,3
+2018,T,Finland,Bulgaria,0
+2018,T,Finland,Cyprus,1
+2018,T,Finland,Czech Republic,5
+2018,T,Finland,Denmark,10
+2018,T,Finland,Estonia,12
+2018,T,Finland,France,4
+2018,T,Finland,Germany,0
+2018,T,Finland,Hungary,8
+2018,T,Finland,Ireland,0
+2018,T,Finland,Israel,7
+2018,T,Finland,Italy,6
+2018,T,Finland,Lithuania,0
+2018,T,Finland,Moldova,0
+2018,T,Finland,Norway,0
+2018,T,Finland,Portugal,0
+2018,T,Finland,Serbia,0
+2018,T,Finland,Slovenia,0
+2018,T,Finland,Spain,0
+2018,T,Finland,Sweden,0
+2018,T,Finland,The Netherlands,2
+2018,T,Finland,Ukraine,0
+2018,T,Finland,United Kingdom,0
+2018,T,France,Albania,0
+2018,T,France,Australia,0
+2018,T,France,Austria,0
+2018,T,France,Bulgaria,0
+2018,T,France,Cyprus,3
+2018,T,France,Czech Republic,0
+2018,T,France,Denmark,2
+2018,T,France,Estonia,7
+2018,T,France,Finland,0
+2018,T,France,Germany,0
+2018,T,France,Hungary,0
+2018,T,France,Ireland,0
+2018,T,France,Israel,12
+2018,T,France,Italy,10
+2018,T,France,Lithuania,0
+2018,T,France,Moldova,6
+2018,T,France,Norway,0
+2018,T,France,Portugal,8
+2018,T,France,Serbia,1
+2018,T,France,Slovenia,0
+2018,T,France,Spain,5
+2018,T,France,Sweden,0
+2018,T,France,The Netherlands,0
+2018,T,France,Ukraine,4
+2018,T,France,United Kingdom,0
+2018,T,Georgia,Albania,0
+2018,T,Georgia,Australia,0
+2018,T,Georgia,Austria,1
+2018,T,Georgia,Bulgaria,0
+2018,T,Georgia,Cyprus,10
+2018,T,Georgia,Czech Republic,0
+2018,T,Georgia,Denmark,2
+2018,T,Georgia,Estonia,6
+2018,T,Georgia,Finland,0
+2018,T,Georgia,France,4
+2018,T,Georgia,Germany,0
+2018,T,Georgia,Hungary,0
+2018,T,Georgia,Ireland,0
+2018,T,Georgia,Israel,12
+2018,T,Georgia,Italy,5
+2018,T,Georgia,Lithuania,7
+2018,T,Georgia,Moldova,3
+2018,T,Georgia,Norway,0
+2018,T,Georgia,Portugal,0
+2018,T,Georgia,Serbia,0
+2018,T,Georgia,Slovenia,0
+2018,T,Georgia,Spain,0
+2018,T,Georgia,Sweden,0
+2018,T,Georgia,The Netherlands,0
+2018,T,Georgia,Ukraine,8
+2018,T,Georgia,United Kingdom,0
+2018,T,Germany,Albania,0
+2018,T,Germany,Australia,0
+2018,T,Germany,Austria,5
+2018,T,Germany,Bulgaria,0
+2018,T,Germany,Cyprus,6
+2018,T,Germany,Czech Republic,8
+2018,T,Germany,Denmark,3
+2018,T,Germany,Estonia,0
+2018,T,Germany,Finland,0
+2018,T,Germany,France,0
+2018,T,Germany,Hungary,2
+2018,T,Germany,Ireland,7
+2018,T,Germany,Israel,10
+2018,T,Germany,Italy,12
+2018,T,Germany,Lithuania,4
+2018,T,Germany,Moldova,0
+2018,T,Germany,Norway,0
+2018,T,Germany,Portugal,0
+2018,T,Germany,Serbia,0
+2018,T,Germany,Slovenia,0
+2018,T,Germany,Spain,0
+2018,T,Germany,Sweden,0
+2018,T,Germany,The Netherlands,0
+2018,T,Germany,Ukraine,0
+2018,T,Germany,United Kingdom,1
+2018,T,Greece,Albania,10
+2018,T,Greece,Australia,0
+2018,T,Greece,Austria,0
+2018,T,Greece,Bulgaria,5
+2018,T,Greece,Cyprus,12
+2018,T,Greece,Czech Republic,7
+2018,T,Greece,Denmark,0
+2018,T,Greece,Estonia,4
+2018,T,Greece,Finland,0
+2018,T,Greece,France,0
+2018,T,Greece,Germany,2
+2018,T,Greece,Hungary,0
+2018,T,Greece,Ireland,0
+2018,T,Greece,Israel,6
+2018,T,Greece,Italy,8
+2018,T,Greece,Lithuania,0
+2018,T,Greece,Moldova,1
+2018,T,Greece,Norway,3
+2018,T,Greece,Portugal,0
+2018,T,Greece,Serbia,0
+2018,T,Greece,Slovenia,0
+2018,T,Greece,Spain,0
+2018,T,Greece,Sweden,0
+2018,T,Greece,The Netherlands,0
+2018,T,Greece,Ukraine,0
+2018,T,Greece,United Kingdom,0
+2018,T,Hungary,Albania,0
+2018,T,Hungary,Australia,0
+2018,T,Hungary,Austria,3
+2018,T,Hungary,Bulgaria,0
+2018,T,Hungary,Cyprus,7
+2018,T,Hungary,Czech Republic,8
+2018,T,Hungary,Denmark,12
+2018,T,Hungary,Estonia,0
+2018,T,Hungary,Finland,0
+2018,T,Hungary,France,0
+2018,T,Hungary,Germany,1
+2018,T,Hungary,Ireland,0
+2018,T,Hungary,Israel,10
+2018,T,Hungary,Italy,6
+2018,T,Hungary,Lithuania,0
+2018,T,Hungary,Moldova,2
+2018,T,Hungary,Norway,5
+2018,T,Hungary,Portugal,0
+2018,T,Hungary,Serbia,0
+2018,T,Hungary,Slovenia,0
+2018,T,Hungary,Spain,0
+2018,T,Hungary,Sweden,0
+2018,T,Hungary,The Netherlands,4
+2018,T,Hungary,Ukraine,0
+2018,T,Hungary,United Kingdom,0
+2018,T,Iceland,Albania,0
+2018,T,Iceland,Australia,0
+2018,T,Iceland,Austria,5
+2018,T,Iceland,Bulgaria,0
+2018,T,Iceland,Cyprus,1
+2018,T,Iceland,Czech Republic,10
+2018,T,Iceland,Denmark,12
+2018,T,Iceland,Estonia,0
+2018,T,Iceland,Finland,3
+2018,T,Iceland,France,6
+2018,T,Iceland,Germany,8
+2018,T,Iceland,Hungary,0
+2018,T,Iceland,Ireland,0
+2018,T,Iceland,Israel,7
+2018,T,Iceland,Italy,0
+2018,T,Iceland,Lithuania,0
+2018,T,Iceland,Moldova,0
+2018,T,Iceland,Norway,4
+2018,T,Iceland,Portugal,0
+2018,T,Iceland,Serbia,0
+2018,T,Iceland,Slovenia,0
+2018,T,Iceland,Spain,0
+2018,T,Iceland,Sweden,2
+2018,T,Iceland,The Netherlands,0
+2018,T,Iceland,Ukraine,0
+2018,T,Iceland,United Kingdom,0
+2018,T,Ireland,Albania,0
+2018,T,Ireland,Australia,0
+2018,T,Ireland,Austria,0
+2018,T,Ireland,Bulgaria,0
+2018,T,Ireland,Cyprus,5
+2018,T,Ireland,Czech Republic,7
+2018,T,Ireland,Denmark,2
+2018,T,Ireland,Estonia,4
+2018,T,Ireland,Finland,0
+2018,T,Ireland,France,0
+2018,T,Ireland,Germany,8
+2018,T,Ireland,Hungary,0
+2018,T,Ireland,Israel,6
+2018,T,Ireland,Italy,0
+2018,T,Ireland,Lithuania,12
+2018,T,Ireland,Moldova,1
+2018,T,Ireland,Norway,0
+2018,T,Ireland,Portugal,0
+2018,T,Ireland,Serbia,0
+2018,T,Ireland,Slovenia,0
+2018,T,Ireland,Spain,0
+2018,T,Ireland,Sweden,0
+2018,T,Ireland,The Netherlands,3
+2018,T,Ireland,Ukraine,0
+2018,T,Ireland,United Kingdom,10
+2018,T,Israel,Albania,0
+2018,T,Israel,Australia,0
+2018,T,Israel,Austria,1
+2018,T,Israel,Bulgaria,0
+2018,T,Israel,Cyprus,2
+2018,T,Israel,Czech Republic,12
+2018,T,Israel,Denmark,4
+2018,T,Israel,Estonia,8
+2018,T,Israel,Finland,0
+2018,T,Israel,France,6
+2018,T,Israel,Germany,3
+2018,T,Israel,Hungary,0
+2018,T,Israel,Ireland,0
+2018,T,Israel,Italy,5
+2018,T,Israel,Lithuania,0
+2018,T,Israel,Moldova,10
+2018,T,Israel,Norway,0
+2018,T,Israel,Portugal,0
+2018,T,Israel,Serbia,0
+2018,T,Israel,Slovenia,0
+2018,T,Israel,Spain,0
+2018,T,Israel,Sweden,0
+2018,T,Israel,The Netherlands,0
+2018,T,Israel,Ukraine,7
+2018,T,Israel,United Kingdom,0
+2018,T,Italy,Albania,12
+2018,T,Italy,Australia,0
+2018,T,Italy,Austria,0
+2018,T,Italy,Bulgaria,0
+2018,T,Italy,Cyprus,5
+2018,T,Italy,Czech Republic,0
+2018,T,Italy,Denmark,4
+2018,T,Italy,Estonia,6
+2018,T,Italy,Finland,0
+2018,T,Italy,France,0
+2018,T,Italy,Germany,3
+2018,T,Italy,Hungary,2
+2018,T,Italy,Ireland,0
+2018,T,Italy,Israel,7
+2018,T,Italy,Lithuania,0
+2018,T,Italy,Moldova,10
+2018,T,Italy,Norway,0
+2018,T,Italy,Portugal,0
+2018,T,Italy,Serbia,1
+2018,T,Italy,Slovenia,0
+2018,T,Italy,Spain,0
+2018,T,Italy,Sweden,0
+2018,T,Italy,The Netherlands,0
+2018,T,Italy,Ukraine,8
+2018,T,Italy,United Kingdom,0
+2018,T,Latvia,Albania,0
+2018,T,Latvia,Australia,0
+2018,T,Latvia,Austria,0
+2018,T,Latvia,Bulgaria,0
+2018,T,Latvia,Cyprus,1
+2018,T,Latvia,Czech Republic,4
+2018,T,Latvia,Denmark,5
+2018,T,Latvia,Estonia,10
+2018,T,Latvia,Finland,0
+2018,T,Latvia,France,0
+2018,T,Latvia,Germany,0
+2018,T,Latvia,Hungary,0
+2018,T,Latvia,Ireland,0
+2018,T,Latvia,Israel,8
+2018,T,Latvia,Italy,6
+2018,T,Latvia,Lithuania,12
+2018,T,Latvia,Moldova,7
+2018,T,Latvia,Norway,2
+2018,T,Latvia,Portugal,0
+2018,T,Latvia,Serbia,0
+2018,T,Latvia,Slovenia,0
+2018,T,Latvia,Spain,0
+2018,T,Latvia,Sweden,0
+2018,T,Latvia,The Netherlands,0
+2018,T,Latvia,Ukraine,3
+2018,T,Latvia,United Kingdom,0
+2018,T,Lithuania,Albania,0
+2018,T,Lithuania,Australia,0
+2018,T,Lithuania,Austria,3
+2018,T,Lithuania,Bulgaria,0
+2018,T,Lithuania,Cyprus,6
+2018,T,Lithuania,Czech Republic,8
+2018,T,Lithuania,Denmark,10
+2018,T,Lithuania,Estonia,12
+2018,T,Lithuania,Finland,0
+2018,T,Lithuania,France,5
+2018,T,Lithuania,Germany,2
+2018,T,Lithuania,Hungary,0
+2018,T,Lithuania,Ireland,0
+2018,T,Lithuania,Israel,1
+2018,T,Lithuania,Italy,7
+2018,T,Lithuania,Moldova,0
+2018,T,Lithuania,Norway,0
+2018,T,Lithuania,Portugal,0
+2018,T,Lithuania,Serbia,0
+2018,T,Lithuania,Slovenia,0
+2018,T,Lithuania,Spain,0
+2018,T,Lithuania,Sweden,4
+2018,T,Lithuania,The Netherlands,0
+2018,T,Lithuania,Ukraine,0
+2018,T,Lithuania,United Kingdom,0
+2018,T,Malta,Albania,0
+2018,T,Malta,Australia,6
+2018,T,Malta,Austria,0
+2018,T,Malta,Bulgaria,7
+2018,T,Malta,Cyprus,10
+2018,T,Malta,Czech Republic,3
+2018,T,Malta,Denmark,2
+2018,T,Malta,Estonia,0
+2018,T,Malta,Finland,0
+2018,T,Malta,France,0
+2018,T,Malta,Germany,4
+2018,T,Malta,Hungary,0
+2018,T,Malta,Ireland,0
+2018,T,Malta,Israel,8
+2018,T,Malta,Italy,12
+2018,T,Malta,Lithuania,5
+2018,T,Malta,Moldova,0
+2018,T,Malta,Norway,0
+2018,T,Malta,Portugal,0
+2018,T,Malta,Serbia,0
+2018,T,Malta,Slovenia,0
+2018,T,Malta,Spain,0
+2018,T,Malta,Sweden,0
+2018,T,Malta,The Netherlands,0
+2018,T,Malta,Ukraine,0
+2018,T,Malta,United Kingdom,1
+2018,T,Moldova,Albania,0
+2018,T,Moldova,Australia,0
+2018,T,Moldova,Austria,0
+2018,T,Moldova,Bulgaria,3
+2018,T,Moldova,Cyprus,7
+2018,T,Moldova,Czech Republic,6
+2018,T,Moldova,Denmark,0
+2018,T,Moldova,Estonia,1
+2018,T,Moldova,Finland,0
+2018,T,Moldova,France,0
+2018,T,Moldova,Germany,4
+2018,T,Moldova,Hungary,2
+2018,T,Moldova,Ireland,0
+2018,T,Moldova,Israel,12
+2018,T,Moldova,Italy,8
+2018,T,Moldova,Lithuania,0
+2018,T,Moldova,Norway,5
+2018,T,Moldova,Portugal,0
+2018,T,Moldova,Serbia,0
+2018,T,Moldova,Slovenia,0
+2018,T,Moldova,Spain,0
+2018,T,Moldova,Sweden,0
+2018,T,Moldova,The Netherlands,0
+2018,T,Moldova,Ukraine,10
+2018,T,Moldova,United Kingdom,0
+2018,T,Montenegro,Albania,10
+2018,T,Montenegro,Australia,0
+2018,T,Montenegro,Austria,0
+2018,T,Montenegro,Bulgaria,4
+2018,T,Montenegro,Cyprus,5
+2018,T,Montenegro,Czech Republic,0
+2018,T,Montenegro,Denmark,0
+2018,T,Montenegro,Estonia,0
+2018,T,Montenegro,Finland,0
+2018,T,Montenegro,France,0
+2018,T,Montenegro,Germany,0
+2018,T,Montenegro,Hungary,3
+2018,T,Montenegro,Ireland,0
+2018,T,Montenegro,Israel,1
+2018,T,Montenegro,Italy,8
+2018,T,Montenegro,Lithuania,0
+2018,T,Montenegro,Moldova,0
+2018,T,Montenegro,Norway,0
+2018,T,Montenegro,Portugal,0
+2018,T,Montenegro,Serbia,12
+2018,T,Montenegro,Slovenia,6
+2018,T,Montenegro,Spain,0
+2018,T,Montenegro,Sweden,2
+2018,T,Montenegro,The Netherlands,0
+2018,T,Montenegro,Ukraine,7
+2018,T,Montenegro,United Kingdom,0
+2018,T,Norway,Albania,0
+2018,T,Norway,Australia,0
+2018,T,Norway,Austria,8
+2018,T,Norway,Bulgaria,0
+2018,T,Norway,Cyprus,2
+2018,T,Norway,Czech Republic,4
+2018,T,Norway,Denmark,10
+2018,T,Norway,Estonia,0
+2018,T,Norway,Finland,0
+2018,T,Norway,France,1
+2018,T,Norway,Germany,6
+2018,T,Norway,Hungary,0
+2018,T,Norway,Ireland,0
+2018,T,Norway,Israel,7
+2018,T,Norway,Italy,0
+2018,T,Norway,Lithuania,12
+2018,T,Norway,Moldova,0
+2018,T,Norway,Portugal,0
+2018,T,Norway,Serbia,0
+2018,T,Norway,Slovenia,0
+2018,T,Norway,Spain,0
+2018,T,Norway,Sweden,3
+2018,T,Norway,The Netherlands,5
+2018,T,Norway,Ukraine,0
+2018,T,Norway,United Kingdom,0
+2018,T,Poland,Albania,0
+2018,T,Poland,Australia,0
+2018,T,Poland,Austria,0
+2018,T,Poland,Bulgaria,0
+2018,T,Poland,Cyprus,8
+2018,T,Poland,Czech Republic,4
+2018,T,Poland,Denmark,6
+2018,T,Poland,Estonia,0
+2018,T,Poland,Finland,0
+2018,T,Poland,France,3
+2018,T,Poland,Germany,1
+2018,T,Poland,Hungary,7
+2018,T,Poland,Ireland,2
+2018,T,Poland,Israel,10
+2018,T,Poland,Italy,5
+2018,T,Poland,Lithuania,0
+2018,T,Poland,Moldova,0
+2018,T,Poland,Norway,0
+2018,T,Poland,Portugal,0
+2018,T,Poland,Serbia,0
+2018,T,Poland,Slovenia,0
+2018,T,Poland,Spain,0
+2018,T,Poland,Sweden,0
+2018,T,Poland,The Netherlands,0
+2018,T,Poland,Ukraine,12
+2018,T,Poland,United Kingdom,0
+2018,T,Portugal,Albania,0
+2018,T,Portugal,Australia,0
+2018,T,Portugal,Austria,0
+2018,T,Portugal,Bulgaria,0
+2018,T,Portugal,Cyprus,5
+2018,T,Portugal,Czech Republic,0
+2018,T,Portugal,Denmark,2
+2018,T,Portugal,Estonia,7
+2018,T,Portugal,Finland,0
+2018,T,Portugal,France,0
+2018,T,Portugal,Germany,8
+2018,T,Portugal,Hungary,0
+2018,T,Portugal,Ireland,3
+2018,T,Portugal,Israel,1
+2018,T,Portugal,Italy,10
+2018,T,Portugal,Lithuania,0
+2018,T,Portugal,Moldova,6
+2018,T,Portugal,Norway,0
+2018,T,Portugal,Serbia,0
+2018,T,Portugal,Slovenia,0
+2018,T,Portugal,Spain,12
+2018,T,Portugal,Sweden,0
+2018,T,Portugal,The Netherlands,0
+2018,T,Portugal,Ukraine,4
+2018,T,Portugal,United Kingdom,0
+2018,T,Romania,Albania,0
+2018,T,Romania,Australia,0
+2018,T,Romania,Austria,0
+2018,T,Romania,Bulgaria,5
+2018,T,Romania,Cyprus,7
+2018,T,Romania,Czech Republic,3
+2018,T,Romania,Denmark,2
+2018,T,Romania,Estonia,0
+2018,T,Romania,Finland,0
+2018,T,Romania,France,0
+2018,T,Romania,Germany,4
+2018,T,Romania,Hungary,10
+2018,T,Romania,Ireland,1
+2018,T,Romania,Israel,8
+2018,T,Romania,Italy,6
+2018,T,Romania,Lithuania,0
+2018,T,Romania,Moldova,12
+2018,T,Romania,Norway,0
+2018,T,Romania,Portugal,0
+2018,T,Romania,Serbia,0
+2018,T,Romania,Slovenia,0
+2018,T,Romania,Spain,0
+2018,T,Romania,Sweden,0
+2018,T,Romania,The Netherlands,0
+2018,T,Romania,Ukraine,0
+2018,T,Romania,United Kingdom,0
+2018,T,Russia,Albania,0
+2018,T,Russia,Australia,0
+2018,T,Russia,Austria,0
+2018,T,Russia,Bulgaria,0
+2018,T,Russia,Cyprus,4
+2018,T,Russia,Czech Republic,2
+2018,T,Russia,Denmark,7
+2018,T,Russia,Estonia,3
+2018,T,Russia,Finland,0
+2018,T,Russia,France,0
+2018,T,Russia,Germany,0
+2018,T,Russia,Hungary,0
+2018,T,Russia,Ireland,0
+2018,T,Russia,Israel,10
+2018,T,Russia,Italy,6
+2018,T,Russia,Lithuania,0
+2018,T,Russia,Moldova,12
+2018,T,Russia,Norway,5
+2018,T,Russia,Portugal,0
+2018,T,Russia,Serbia,0
+2018,T,Russia,Slovenia,0
+2018,T,Russia,Spain,0
+2018,T,Russia,Sweden,1
+2018,T,Russia,The Netherlands,0
+2018,T,Russia,Ukraine,8
+2018,T,Russia,United Kingdom,0
+2018,T,San Marino,Albania,0
+2018,T,San Marino,Australia,0
+2018,T,San Marino,Austria,0
+2018,T,San Marino,Bulgaria,0
+2018,T,San Marino,Cyprus,7
+2018,T,San Marino,Czech Republic,10
+2018,T,San Marino,Denmark,6
+2018,T,San Marino,Estonia,0
+2018,T,San Marino,Finland,0
+2018,T,San Marino,France,0
+2018,T,San Marino,Germany,4
+2018,T,San Marino,Hungary,0
+2018,T,San Marino,Ireland,3
+2018,T,San Marino,Israel,12
+2018,T,San Marino,Italy,8
+2018,T,San Marino,Lithuania,0
+2018,T,San Marino,Moldova,2
+2018,T,San Marino,Norway,0
+2018,T,San Marino,Portugal,0
+2018,T,San Marino,Serbia,0
+2018,T,San Marino,Slovenia,0
+2018,T,San Marino,Spain,0
+2018,T,San Marino,Sweden,0
+2018,T,San Marino,The Netherlands,0
+2018,T,San Marino,Ukraine,5
+2018,T,San Marino,United Kingdom,1
+2018,T,Serbia,Albania,0
+2018,T,Serbia,Australia,0
+2018,T,Serbia,Austria,0
+2018,T,Serbia,Bulgaria,2
+2018,T,Serbia,Cyprus,10
+2018,T,Serbia,Czech Republic,5
+2018,T,Serbia,Denmark,4
+2018,T,Serbia,Estonia,0
+2018,T,Serbia,Finland,0
+2018,T,Serbia,France,0
+2018,T,Serbia,Germany,0
+2018,T,Serbia,Hungary,12
+2018,T,Serbia,Ireland,0
+2018,T,Serbia,Israel,7
+2018,T,Serbia,Italy,6
+2018,T,Serbia,Lithuania,0
+2018,T,Serbia,Moldova,1
+2018,T,Serbia,Norway,3
+2018,T,Serbia,Portugal,0
+2018,T,Serbia,Slovenia,8
+2018,T,Serbia,Spain,0
+2018,T,Serbia,Sweden,0
+2018,T,Serbia,The Netherlands,0
+2018,T,Serbia,Ukraine,0
+2018,T,Serbia,United Kingdom,0
+2018,T,Slovenia,Albania,1
+2018,T,Slovenia,Australia,0
+2018,T,Slovenia,Austria,2
+2018,T,Slovenia,Bulgaria,0
+2018,T,Slovenia,Cyprus,6
+2018,T,Slovenia,Czech Republic,8
+2018,T,Slovenia,Denmark,7
+2018,T,Slovenia,Estonia,0
+2018,T,Slovenia,Finland,0
+2018,T,Slovenia,France,0
+2018,T,Slovenia,Germany,4
+2018,T,Slovenia,Hungary,3
+2018,T,Slovenia,Ireland,0
+2018,T,Slovenia,Israel,0
+2018,T,Slovenia,Italy,10
+2018,T,Slovenia,Lithuania,0
+2018,T,Slovenia,Moldova,0
+2018,T,Slovenia,Norway,5
+2018,T,Slovenia,Portugal,0
+2018,T,Slovenia,Serbia,12
+2018,T,Slovenia,Spain,0
+2018,T,Slovenia,Sweden,0
+2018,T,Slovenia,The Netherlands,0
+2018,T,Slovenia,Ukraine,0
+2018,T,Slovenia,United Kingdom,0
+2018,T,Spain,Albania,0
+2018,T,Spain,Australia,0
+2018,T,Spain,Austria,0
+2018,T,Spain,Bulgaria,5
+2018,T,Spain,Cyprus,8
+2018,T,Spain,Czech Republic,10
+2018,T,Spain,Denmark,0
+2018,T,Spain,Estonia,2
+2018,T,Spain,Finland,0
+2018,T,Spain,France,4
+2018,T,Spain,Germany,6
+2018,T,Spain,Hungary,0
+2018,T,Spain,Ireland,1
+2018,T,Spain,Israel,12
+2018,T,Spain,Italy,7
+2018,T,Spain,Lithuania,0
+2018,T,Spain,Moldova,0
+2018,T,Spain,Norway,3
+2018,T,Spain,Portugal,0
+2018,T,Spain,Serbia,0
+2018,T,Spain,Slovenia,0
+2018,T,Spain,Sweden,0
+2018,T,Spain,The Netherlands,0
+2018,T,Spain,Ukraine,0
+2018,T,Spain,United Kingdom,0
+2018,T,Sweden,Albania,0
+2018,T,Sweden,Australia,0
+2018,T,Sweden,Austria,2
+2018,T,Sweden,Bulgaria,0
+2018,T,Sweden,Cyprus,4
+2018,T,Sweden,Czech Republic,3
+2018,T,Sweden,Denmark,12
+2018,T,Sweden,Estonia,0
+2018,T,Sweden,Finland,6
+2018,T,Sweden,France,0
+2018,T,Sweden,Germany,5
+2018,T,Sweden,Hungary,0
+2018,T,Sweden,Ireland,0
+2018,T,Sweden,Israel,10
+2018,T,Sweden,Italy,0
+2018,T,Sweden,Lithuania,7
+2018,T,Sweden,Moldova,0
+2018,T,Sweden,Norway,8
+2018,T,Sweden,Portugal,0
+2018,T,Sweden,Serbia,0
+2018,T,Sweden,Slovenia,0
+2018,T,Sweden,Spain,0
+2018,T,Sweden,The Netherlands,1
+2018,T,Sweden,Ukraine,0
+2018,T,Sweden,United Kingdom,0
+2018,T,Switzerland,Albania,7
+2018,T,Switzerland,Australia,0
+2018,T,Switzerland,Austria,4
+2018,T,Switzerland,Bulgaria,0
+2018,T,Switzerland,Cyprus,3
+2018,T,Switzerland,Czech Republic,0
+2018,T,Switzerland,Denmark,2
+2018,T,Switzerland,Estonia,0
+2018,T,Switzerland,Finland,0
+2018,T,Switzerland,France,0
+2018,T,Switzerland,Germany,6
+2018,T,Switzerland,Hungary,0
+2018,T,Switzerland,Ireland,0
+2018,T,Switzerland,Israel,5
+2018,T,Switzerland,Italy,8
+2018,T,Switzerland,Lithuania,0
+2018,T,Switzerland,Moldova,0
+2018,T,Switzerland,Norway,0
+2018,T,Switzerland,Portugal,10
+2018,T,Switzerland,Serbia,12
+2018,T,Switzerland,Slovenia,0
+2018,T,Switzerland,Spain,1
+2018,T,Switzerland,Sweden,0
+2018,T,Switzerland,The Netherlands,0
+2018,T,Switzerland,Ukraine,0
+2018,T,Switzerland,United Kingdom,0
+2018,T,The Netherands,Albania,0
+2018,T,The Netherands,Australia,0
+2018,T,The Netherands,Austria,3
+2018,T,The Netherands,Bulgaria,0
+2018,T,The Netherands,Cyprus,5
+2018,T,The Netherands,Czech Republic,6
+2018,T,The Netherands,Denmark,8
+2018,T,The Netherands,Estonia,0
+2018,T,The Netherands,Finland,0
+2018,T,The Netherands,France,0
+2018,T,The Netherands,Germany,12
+2018,T,The Netherands,Hungary,2
+2018,T,The Netherands,Ireland,4
+2018,T,The Netherands,Israel,10
+2018,T,The Netherands,Italy,7
+2018,T,The Netherands,Lithuania,0
+2018,T,The Netherands,Moldova,0
+2018,T,The Netherands,Norway,1
+2018,T,The Netherands,Portugal,0
+2018,T,The Netherands,Serbia,0
+2018,T,The Netherands,Slovenia,0
+2018,T,The Netherands,Spain,0
+2018,T,The Netherands,Sweden,0
+2018,T,The Netherands,The Netherlands,0
+2018,T,The Netherands,Ukraine,0
+2018,T,The Netherands,United Kingdom,0
+2018,T,Ukraine,Albania,0
+2018,T,Ukraine,Australia,0
+2018,T,Ukraine,Austria,0
+2018,T,Ukraine,Bulgaria,0
+2018,T,Ukraine,Cyprus,4
+2018,T,Ukraine,Czech Republic,10
+2018,T,Ukraine,Denmark,8
+2018,T,Ukraine,Estonia,3
+2018,T,Ukraine,Finland,0
+2018,T,Ukraine,France,7
+2018,T,Ukraine,Germany,0
+2018,T,Ukraine,Hungary,1
+2018,T,Ukraine,Ireland,0
+2018,T,Ukraine,Israel,12
+2018,T,Ukraine,Italy,5
+2018,T,Ukraine,Lithuania,2
+2018,T,Ukraine,Moldova,6
+2018,T,Ukraine,Norway,0
+2018,T,Ukraine,Portugal,0
+2018,T,Ukraine,Serbia,0
+2018,T,Ukraine,Slovenia,0
+2018,T,Ukraine,Spain,0
+2018,T,Ukraine,Sweden,0
+2018,T,Ukraine,The Netherlands,0
+2018,T,Ukraine,United Kingdom,0
+2018,T,United Kingdom,Albania,0
+2018,T,United Kingdom,Australia,1
+2018,T,United Kingdom,Austria,0
+2018,T,United Kingdom,Bulgaria,6
+2018,T,United Kingdom,Cyprus,8
+2018,T,United Kingdom,Czech Republic,5
+2018,T,United Kingdom,Denmark,2
+2018,T,United Kingdom,Estonia,0
+2018,T,United Kingdom,Finland,0
+2018,T,United Kingdom,France,0
+2018,T,United Kingdom,Germany,3
+2018,T,United Kingdom,Hungary,0
+2018,T,United Kingdom,Ireland,10
+2018,T,United Kingdom,Israel,7
+2018,T,United Kingdom,Italy,0
+2018,T,United Kingdom,Lithuania,12
+2018,T,United Kingdom,Moldova,4
+2018,T,United Kingdom,Norway,0
+2018,T,United Kingdom,Portugal,0
+2018,T,United Kingdom,Serbia,0
+2018,T,United Kingdom,Slovenia,0
+2018,T,United Kingdom,Spain,0
+2018,T,United Kingdom,Sweden,0
+2018,T,United Kingdom,The Netherlands,0
+2018,T,United Kingdom,Ukraine,0
+2019,T,Malta,Italy,12
+2019,T,Malta,Spain,0
+2019,T,Malta,Israel,0
+2019,T,Malta,United Kingdom,0
+2019,T,Malta,Australia,3
+2019,T,Malta,Russia,4
+2019,T,Malta,Switzerland,8
+2019,T,Malta,Norway,7
+2019,T,Malta,Sweden,6
+2019,T,Malta,Azerbaijan,2
+2019,T,Malta,North Macedonia,5
+2019,T,Malta,Iceland,0
+2019,T,Malta,Czech Republic,0
+2019,T,Malta,Denmark,0
+2019,T,Malta,Slovenia,0
+2019,T,Malta,France,0
+2019,T,Malta,Cyprus,0
+2019,T,Malta,Serbia,0
+2019,T,Malta,Albania,0
+2019,T,Malta,Estonia,0
+2019,T,Malta,San Marino,0
+2019,T,Malta,Greece,0
+2019,T,Malta,Germany,0
+2019,T,Malta,Belarus,0
+2019,T,Malta,The Netherlands,10
+2019,T,Albania,Italy,8
+2019,T,Albania,Spain,0
+2019,T,Albania,Israel,0
+2019,T,Albania,United Kingdom,0
+2019,T,Albania,Australia,0
+2019,T,Albania,Russia,12
+2019,T,Albania,Switzerland,4
+2019,T,Albania,Norway,5
+2019,T,Albania,Sweden,0
+2019,T,Albania,Azerbaijan,3
+2019,T,Albania,North Macedonia,6
+2019,T,Albania,Iceland,0
+2019,T,Albania,Czech Republic,0
+2019,T,Albania,Denmark,0
+2019,T,Albania,Slovenia,0
+2019,T,Albania,France,0
+2019,T,Albania,Cyprus,0
+2019,T,Albania,Malta,0
+2019,T,Albania,Serbia,0
+2019,T,Albania,Estonia,0
+2019,T,Albania,San Marino,10
+2019,T,Albania,Greece,2
+2019,T,Albania,Germany,0
+2019,T,Albania,Belarus,0
+2019,T,Albania,The Netherlands,7
+2019,T,Czech Republic,Italy,2
+2019,T,Czech Republic,Spain,0
+2019,T,Czech Republic,Israel,3
+2019,T,Czech Republic,United Kingdom,0
+2019,T,Czech Republic,Australia,8
+2019,T,Czech Republic,Russia,12
+2019,T,Czech Republic,Switzerland,5
+2019,T,Czech Republic,Norway,10
+2019,T,Czech Republic,Sweden,0
+2019,T,Czech Republic,Azerbaijan,7
+2019,T,Czech Republic,North Macedonia,0
+2019,T,Czech Republic,Iceland,6
+2019,T,Czech Republic,Denmark,0
+2019,T,Czech Republic,Slovenia,0
+2019,T,Czech Republic,France,0
+2019,T,Czech Republic,Cyprus,0
+2019,T,Czech Republic,Malta,0
+2019,T,Czech Republic,Serbia,0
+2019,T,Czech Republic,Albania,0
+2019,T,Czech Republic,Estonia,0
+2019,T,Czech Republic,San Marino,0
+2019,T,Czech Republic,Greece,0
+2019,T,Czech Republic,Germany,0
+2019,T,Czech Republic,Belarus,0
+2019,T,Czech Republic,The Netherlands,4
+2019,T,Armenia,Italy,7
+2019,T,Armenia,Spain,0
+2019,T,Armenia,Israel,0
+2019,T,Armenia,United Kingdom,0
+2019,T,Armenia,Australia,0
+2019,T,Armenia,Russia,12
+2019,T,Armenia,Switzerland,8
+2019,T,Armenia,Norway,5
+2019,T,Armenia,Sweden,2
+2019,T,Armenia,Azerbaijan,0
+2019,T,Armenia,North Macedonia,0
+2019,T,Armenia,Iceland,3
+2019,T,Armenia,Czech Republic,0
+2019,T,Armenia,Denmark,0
+2019,T,Armenia,Slovenia,0
+2019,T,Armenia,France,4
+2019,T,Armenia,Cyprus,0
+2019,T,Armenia,Malta,6
+2019,T,Armenia,Serbia,0
+2019,T,Armenia,Albania,0
+2019,T,Armenia,Estonia,0
+2019,T,Armenia,San Marino,0
+2019,T,Armenia,Greece,0
+2019,T,Armenia,Germany,0
+2019,T,Armenia,Belarus,0
+2019,T,Armenia,The Netherlands,10
+2019,T,Germany,Italy,6
+2019,T,Germany,Spain,0
+2019,T,Germany,Israel,0
+2019,T,Germany,United Kingdom,0
+2019,T,Germany,Australia,5
+2019,T,Germany,Russia,8
+2019,T,Germany,Switzerland,10
+2019,T,Germany,Norway,12
+2019,T,Germany,Sweden,0
+2019,T,Germany,Azerbaijan,0
+2019,T,Germany,North Macedonia,0
+2019,T,Germany,Iceland,2
+2019,T,Germany,Czech Republic,0
+2019,T,Germany,Denmark,4
+2019,T,Germany,Slovenia,3
+2019,T,Germany,France,0
+2019,T,Germany,Cyprus,0
+2019,T,Germany,Malta,0
+2019,T,Germany,Serbia,0
+2019,T,Germany,Albania,0
+2019,T,Germany,Estonia,0
+2019,T,Germany,San Marino,0
+2019,T,Germany,Greece,0
+2019,T,Germany,Belarus,0
+2019,T,Germany,The Netherlands,7
+2019,T,Russia,Italy,0
+2019,T,Russia,Spain,0
+2019,T,Russia,Israel,0
+2019,T,Russia,United Kingdom,0
+2019,T,Russia,Australia,4
+2019,T,Russia,Switzerland,2
+2019,T,Russia,Norway,10
+2019,T,Russia,Sweden,0
+2019,T,Russia,Azerbaijan,12
+2019,T,Russia,North Macedonia,0
+2019,T,Russia,Iceland,7
+2019,T,Russia,Czech Republic,0
+2019,T,Russia,Denmark,0
+2019,T,Russia,Slovenia,6
+2019,T,Russia,France,0
+2019,T,Russia,Cyprus,0
+2019,T,Russia,Malta,0
+2019,T,Russia,Serbia,3
+2019,T,Russia,Albania,0
+2019,T,Russia,Estonia,0
+2019,T,Russia,San Marino,0
+2019,T,Russia,Greece,0
+2019,T,Russia,Germany,0
+2019,T,Russia,Belarus,8
+2019,T,Russia,The Netherlands,5
+2019,T,Denmark,Italy,3
+2019,T,Denmark,Spain,0
+2019,T,Denmark,Israel,0
+2019,T,Denmark,United Kingdom,0
+2019,T,Denmark,Australia,2
+2019,T,Denmark,Russia,0
+2019,T,Denmark,Switzerland,6
+2019,T,Denmark,Norway,12
+2019,T,Denmark,Sweden,10
+2019,T,Denmark,Azerbaijan,5
+2019,T,Denmark,North Macedonia,0
+2019,T,Denmark,Iceland,4
+2019,T,Denmark,Czech Republic,0
+2019,T,Denmark,Slovenia,0
+2019,T,Denmark,France,0
+2019,T,Denmark,Cyprus,0
+2019,T,Denmark,Malta,0
+2019,T,Denmark,Serbia,0
+2019,T,Denmark,Albania,0
+2019,T,Denmark,Estonia,8
+2019,T,Denmark,San Marino,0
+2019,T,Denmark,Greece,0
+2019,T,Denmark,Germany,0
+2019,T,Denmark,Belarus,0
+2019,T,Denmark,The Netherlands,7
+2019,T,San Marino,Italy,8
+2019,T,San Marino,Spain,0
+2019,T,San Marino,Israel,0
+2019,T,San Marino,United Kingdom,0
+2019,T,San Marino,Australia,0
+2019,T,San Marino,Russia,12
+2019,T,San Marino,Switzerland,5
+2019,T,San Marino,Norway,3
+2019,T,San Marino,Sweden,0
+2019,T,San Marino,Azerbaijan,4
+2019,T,San Marino,North Macedonia,0
+2019,T,San Marino,Iceland,2
+2019,T,San Marino,Czech Republic,0
+2019,T,San Marino,Denmark,0
+2019,T,San Marino,Slovenia,0
+2019,T,San Marino,France,0
+2019,T,San Marino,Cyprus,7
+2019,T,San Marino,Malta,0
+2019,T,San Marino,Serbia,0
+2019,T,San Marino,Albania,0
+2019,T,San Marino,Estonia,0
+2019,T,San Marino,Greece,10
+2019,T,San Marino,Germany,0
+2019,T,San Marino,Belarus,0
+2019,T,San Marino,The Netherlands,6
+2019,T,North Macedonia,Italy,3
+2019,T,North Macedonia,Spain,0
+2019,T,North Macedonia,Israel,0
+2019,T,North Macedonia,United Kingdom,0
+2019,T,North Macedonia,Australia,0
+2019,T,North Macedonia,Russia,0
+2019,T,North Macedonia,Switzerland,4
+2019,T,North Macedonia,Norway,5
+2019,T,North Macedonia,Sweden,0
+2019,T,North Macedonia,Azerbaijan,0
+2019,T,North Macedonia,Iceland,0
+2019,T,North Macedonia,Czech Republic,0
+2019,T,North Macedonia,Denmark,0
+2019,T,North Macedonia,Slovenia,2
+2019,T,North Macedonia,France,0
+2019,T,North Macedonia,Cyprus,0
+2019,T,North Macedonia,Malta,6
+2019,T,North Macedonia,Serbia,10
+2019,T,North Macedonia,Albania,12
+2019,T,North Macedonia,Estonia,0
+2019,T,North Macedonia,San Marino,8
+2019,T,North Macedonia,Greece,0
+2019,T,North Macedonia,Germany,0
+2019,T,North Macedonia,Belarus,0
+2019,T,North Macedonia,The Netherlands,7
+2019,T,Sweden,Italy,4
+2019,T,Sweden,Spain,0
+2019,T,Sweden,Israel,0
+2019,T,Sweden,United Kingdom,0
+2019,T,Sweden,Australia,5
+2019,T,Sweden,Russia,0
+2019,T,Sweden,Switzerland,0
+2019,T,Sweden,Norway,12
+2019,T,Sweden,Azerbaijan,3
+2019,T,Sweden,North Macedonia,2
+2019,T,Sweden,Iceland,8
+2019,T,Sweden,Czech Republic,0
+2019,T,Sweden,Denmark,7
+2019,T,Sweden,Slovenia,0
+2019,T,Sweden,France,0
+2019,T,Sweden,Cyprus,0
+2019,T,Sweden,Malta,0
+2019,T,Sweden,Serbia,0
+2019,T,Sweden,Albania,0
+2019,T,Sweden,Estonia,10
+2019,T,Sweden,San Marino,0
+2019,T,Sweden,Greece,0
+2019,T,Sweden,Germany,0
+2019,T,Sweden,Belarus,0
+2019,T,Sweden,The Netherlands,6
+2019,T,Slovenia,Italy,8
+2019,T,Slovenia,Spain,0
+2019,T,Slovenia,Israel,0
+2019,T,Slovenia,United Kingdom,0
+2019,T,Slovenia,Australia,2
+2019,T,Slovenia,Russia,0
+2019,T,Slovenia,Switzerland,4
+2019,T,Slovenia,Norway,6
+2019,T,Slovenia,Sweden,0
+2019,T,Slovenia,Azerbaijan,0
+2019,T,Slovenia,North Macedonia,12
+2019,T,Slovenia,Iceland,7
+2019,T,Slovenia,Czech Republic,0
+2019,T,Slovenia,Denmark,3
+2019,T,Slovenia,France,0
+2019,T,Slovenia,Cyprus,0
+2019,T,Slovenia,Malta,0
+2019,T,Slovenia,Serbia,10
+2019,T,Slovenia,Albania,0
+2019,T,Slovenia,Estonia,0
+2019,T,Slovenia,San Marino,0
+2019,T,Slovenia,Greece,0
+2019,T,Slovenia,Germany,0
+2019,T,Slovenia,Belarus,0
+2019,T,Slovenia,The Netherlands,5
+2019,T,Cyprus,Italy,8
+2019,T,Cyprus,Spain,4
+2019,T,Cyprus,Israel,5
+2019,T,Cyprus,United Kingdom,0
+2019,T,Cyprus,Australia,2
+2019,T,Cyprus,Russia,10
+2019,T,Cyprus,Switzerland,7
+2019,T,Cyprus,Norway,0
+2019,T,Cyprus,Sweden,0
+2019,T,Cyprus,Azerbaijan,0
+2019,T,Cyprus,North Macedonia,0
+2019,T,Cyprus,Iceland,0
+2019,T,Cyprus,Czech Republic,0
+2019,T,Cyprus,Denmark,0
+2019,T,Cyprus,Slovenia,0
+2019,T,Cyprus,France,3
+2019,T,Cyprus,Malta,0
+2019,T,Cyprus,Serbia,0
+2019,T,Cyprus,Albania,0
+2019,T,Cyprus,Estonia,0
+2019,T,Cyprus,San Marino,0
+2019,T,Cyprus,Greece,12
+2019,T,Cyprus,Germany,0
+2019,T,Cyprus,Belarus,0
+2019,T,Cyprus,The Netherlands,6
+2019,T,The Netherlands,Italy,10
+2019,T,The Netherlands,Spain,3
+2019,T,The Netherlands,Israel,0
+2019,T,The Netherlands,United Kingdom,0
+2019,T,The Netherlands,Australia,2
+2019,T,The Netherlands,Russia,0
+2019,T,The Netherlands,Switzerland,6
+2019,T,The Netherlands,Norway,12
+2019,T,The Netherlands,Sweden,8
+2019,T,The Netherlands,Azerbaijan,4
+2019,T,The Netherlands,North Macedonia,0
+2019,T,The Netherlands,Iceland,7
+2019,T,The Netherlands,Czech Republic,0
+2019,T,The Netherlands,Denmark,5
+2019,T,The Netherlands,Slovenia,0
+2019,T,The Netherlands,France,0
+2019,T,The Netherlands,Cyprus,0
+2019,T,The Netherlands,Malta,0
+2019,T,The Netherlands,Serbia,0
+2019,T,The Netherlands,Albania,0
+2019,T,The Netherlands,Estonia,0
+2019,T,The Netherlands,San Marino,0
+2019,T,The Netherlands,Greece,0
+2019,T,The Netherlands,Germany,0
+2019,T,The Netherlands,Belarus,0
+2019,T,Greece,Italy,10
+2019,T,Greece,Spain,4
+2019,T,Greece,Israel,0
+2019,T,Greece,United Kingdom,0
+2019,T,Greece,Australia,3
+2019,T,Greece,Russia,8
+2019,T,Greece,Switzerland,7
+2019,T,Greece,Norway,0
+2019,T,Greece,Sweden,0
+2019,T,Greece,Azerbaijan,0
+2019,T,Greece,North Macedonia,0
+2019,T,Greece,Iceland,2
+2019,T,Greece,Czech Republic,0
+2019,T,Greece,Denmark,0
+2019,T,Greece,Slovenia,0
+2019,T,Greece,France,0
+2019,T,Greece,Cyprus,12
+2019,T,Greece,Malta,0
+2019,T,Greece,Serbia,0
+2019,T,Greece,Albania,5
+2019,T,Greece,Estonia,0
+2019,T,Greece,San Marino,0
+2019,T,Greece,Germany,0
+2019,T,Greece,Belarus,0
+2019,T,Greece,The Netherlands,6
+2019,T,Israel,Italy,8
+2019,T,Israel,Spain,5
+2019,T,Israel,United Kingdom,0
+2019,T,Israel,Australia,6
+2019,T,Israel,Russia,12
+2019,T,Israel,Switzerland,7
+2019,T,Israel,Norway,10
+2019,T,Israel,Sweden,0
+2019,T,Israel,Azerbaijan,3
+2019,T,Israel,North Macedonia,0
+2019,T,Israel,Iceland,0
+2019,T,Israel,Czech Republic,0
+2019,T,Israel,Denmark,0
+2019,T,Israel,Slovenia,0
+2019,T,Israel,France,4
+2019,T,Israel,Cyprus,0
+2019,T,Israel,Malta,0
+2019,T,Israel,Serbia,0
+2019,T,Israel,Albania,0
+2019,T,Israel,Estonia,0
+2019,T,Israel,San Marino,0
+2019,T,Israel,Greece,0
+2019,T,Israel,Germany,0
+2019,T,Israel,Belarus,0
+2019,T,Israel,The Netherlands,2
+2019,T,Norway,Italy,7
+2019,T,Norway,Spain,0
+2019,T,Norway,Israel,0
+2019,T,Norway,United Kingdom,0
+2019,T,Norway,Australia,4
+2019,T,Norway,Russia,0
+2019,T,Norway,Switzerland,6
+2019,T,Norway,Sweden,12
+2019,T,Norway,Azerbaijan,3
+2019,T,Norway,North Macedonia,0
+2019,T,Norway,Iceland,10
+2019,T,Norway,Czech Republic,0
+2019,T,Norway,Denmark,5
+2019,T,Norway,Slovenia,0
+2019,T,Norway,France,0
+2019,T,Norway,Cyprus,0
+2019,T,Norway,Malta,0
+2019,T,Norway,Serbia,0
+2019,T,Norway,Albania,0
+2019,T,Norway,Estonia,2
+2019,T,Norway,San Marino,0
+2019,T,Norway,Greece,0
+2019,T,Norway,Germany,0
+2019,T,Norway,Belarus,0
+2019,T,Norway,The Netherlands,8
+2019,T,United Kingdom,Italy,0
+2019,T,United Kingdom,Spain,2
+2019,T,United Kingdom,Israel,0
+2019,T,United Kingdom,Australia,10
+2019,T,United Kingdom,Russia,0
+2019,T,United Kingdom,Switzerland,7
+2019,T,United Kingdom,Norway,12
+2019,T,United Kingdom,Sweden,5
+2019,T,United Kingdom,Azerbaijan,3
+2019,T,United Kingdom,North Macedonia,0
+2019,T,United Kingdom,Iceland,8
+2019,T,United Kingdom,Czech Republic,0
+2019,T,United Kingdom,Denmark,6
+2019,T,United Kingdom,Slovenia,0
+2019,T,United Kingdom,France,0
+2019,T,United Kingdom,Cyprus,0
+2019,T,United Kingdom,Malta,0
+2019,T,United Kingdom,Serbia,0
+2019,T,United Kingdom,Albania,0
+2019,T,United Kingdom,Estonia,0
+2019,T,United Kingdom,San Marino,0
+2019,T,United Kingdom,Greece,0
+2019,T,United Kingdom,Germany,0
+2019,T,United Kingdom,Belarus,0
+2019,T,United Kingdom,The Netherlands,4
+2019,T,Iceland,Italy,6
+2019,T,Iceland,Spain,0
+2019,T,Iceland,Israel,0
+2019,T,Iceland,United Kingdom,0
+2019,T,Iceland,Australia,10
+2019,T,Iceland,Russia,0
+2019,T,Iceland,Switzerland,7
+2019,T,Iceland,Norway,12
+2019,T,Iceland,Sweden,8
+2019,T,Iceland,Azerbaijan,0
+2019,T,Iceland,North Macedonia,0
+2019,T,Iceland,Czech Republic,2
+2019,T,Iceland,Denmark,4
+2019,T,Iceland,Slovenia,0
+2019,T,Iceland,France,0
+2019,T,Iceland,Cyprus,0
+2019,T,Iceland,Malta,0
+2019,T,Iceland,Serbia,0
+2019,T,Iceland,Albania,0
+2019,T,Iceland,Estonia,3
+2019,T,Iceland,San Marino,0
+2019,T,Iceland,Greece,0
+2019,T,Iceland,Germany,0
+2019,T,Iceland,Belarus,0
+2019,T,Iceland,The Netherlands,5
+2019,T,Estonia,Italy,0
+2019,T,Estonia,Spain,0
+2019,T,Estonia,Israel,0
+2019,T,Estonia,United Kingdom,0
+2019,T,Estonia,Australia,2
+2019,T,Estonia,Russia,12
+2019,T,Estonia,Switzerland,4
+2019,T,Estonia,Norway,10
+2019,T,Estonia,Sweden,3
+2019,T,Estonia,Azerbaijan,0
+2019,T,Estonia,North Macedonia,0
+2019,T,Estonia,Iceland,5
+2019,T,Estonia,Czech Republic,0
+2019,T,Estonia,Denmark,6
+2019,T,Estonia,Slovenia,7
+2019,T,Estonia,France,0
+2019,T,Estonia,Cyprus,0
+2019,T,Estonia,Malta,0
+2019,T,Estonia,Serbia,0
+2019,T,Estonia,Albania,0
+2019,T,Estonia,San Marino,0
+2019,T,Estonia,Greece,0
+2019,T,Estonia,Germany,0
+2019,T,Estonia,Belarus,0
+2019,T,Estonia,The Netherlands,8
+2019,T,Azerbaijan,Italy,6
+2019,T,Azerbaijan,Spain,2
+2019,T,Azerbaijan,Israel,0
+2019,T,Azerbaijan,United Kingdom,0
+2019,T,Azerbaijan,Australia,0
+2019,T,Azerbaijan,Russia,12
+2019,T,Azerbaijan,Switzerland,8
+2019,T,Azerbaijan,Norway,0
+2019,T,Azerbaijan,Sweden,0
+2019,T,Azerbaijan,North Macedonia,3
+2019,T,Azerbaijan,Iceland,0
+2019,T,Azerbaijan,Czech Republic,0
+2019,T,Azerbaijan,Denmark,0
+2019,T,Azerbaijan,Slovenia,0
+2019,T,Azerbaijan,France,0
+2019,T,Azerbaijan,Cyprus,0
+2019,T,Azerbaijan,Malta,4
+2019,T,Azerbaijan,Serbia,0
+2019,T,Azerbaijan,Albania,0
+2019,T,Azerbaijan,Estonia,0
+2019,T,Azerbaijan,San Marino,10
+2019,T,Azerbaijan,Greece,0
+2019,T,Azerbaijan,Germany,0
+2019,T,Azerbaijan,Belarus,5
+2019,T,Azerbaijan,The Netherlands,7
+2019,T,France,Italy,10
+2019,T,France,Spain,7
+2019,T,France,Israel,12
+2019,T,France,United Kingdom,0
+2019,T,France,Australia,6
+2019,T,France,Russia,3
+2019,T,France,Switzerland,2
+2019,T,France,Norway,8
+2019,T,France,Sweden,0
+2019,T,France,Azerbaijan,0
+2019,T,France,North Macedonia,0
+2019,T,France,Iceland,0
+2019,T,France,Czech Republic,0
+2019,T,France,Denmark,4
+2019,T,France,Slovenia,0
+2019,T,France,Cyprus,0
+2019,T,France,Malta,0
+2019,T,France,Serbia,0
+2019,T,France,Albania,0
+2019,T,France,Estonia,0
+2019,T,France,San Marino,0
+2019,T,France,Greece,0
+2019,T,France,Germany,0
+2019,T,France,Belarus,0
+2019,T,France,The Netherlands,5
+2019,T,Italy,Spain,0
+2019,T,Italy,Israel,0
+2019,T,Italy,United Kingdom,0
+2019,T,Italy,Australia,6
+2019,T,Italy,Russia,8
+2019,T,Italy,Switzerland,3
+2019,T,Italy,Norway,10
+2019,T,Italy,Sweden,0
+2019,T,Italy,Azerbaijan,0
+2019,T,Italy,North Macedonia,0
+2019,T,Italy,Iceland,7
+2019,T,Italy,Czech Republic,0
+2019,T,Italy,Denmark,4
+2019,T,Italy,Slovenia,0
+2019,T,Italy,France,2
+2019,T,Italy,Cyprus,0
+2019,T,Italy,Malta,0
+2019,T,Italy,Serbia,0
+2019,T,Italy,Albania,12
+2019,T,Italy,Estonia,0
+2019,T,Italy,San Marino,0
+2019,T,Italy,Greece,0
+2019,T,Italy,Germany,0
+2019,T,Italy,Belarus,0
+2019,T,Italy,The Netherlands,5
+2019,T,Serbia,Italy,7
+2019,T,Serbia,Spain,2
+2019,T,Serbia,Israel,0
+2019,T,Serbia,United Kingdom,0
+2019,T,Serbia,Australia,0
+2019,T,Serbia,Russia,8
+2019,T,Serbia,Switzerland,6
+2019,T,Serbia,Norway,4
+2019,T,Serbia,Sweden,0
+2019,T,Serbia,Azerbaijan,0
+2019,T,Serbia,North Macedonia,12
+2019,T,Serbia,Iceland,5
+2019,T,Serbia,Czech Republic,0
+2019,T,Serbia,Denmark,0
+2019,T,Serbia,Slovenia,10
+2019,T,Serbia,France,0
+2019,T,Serbia,Cyprus,0
+2019,T,Serbia,Malta,0
+2019,T,Serbia,Albania,0
+2019,T,Serbia,Estonia,0
+2019,T,Serbia,San Marino,0
+2019,T,Serbia,Greece,0
+2019,T,Serbia,Germany,0
+2019,T,Serbia,Belarus,0
+2019,T,Serbia,The Netherlands,3
+2019,T,Switzerland,Italy,12
+2019,T,Switzerland,Spain,5
+2019,T,Switzerland,Israel,0
+2019,T,Switzerland,United Kingdom,0
+2019,T,Switzerland,Australia,0
+2019,T,Switzerland,Russia,0
+2019,T,Switzerland,Norway,8
+2019,T,Switzerland,Sweden,4
+2019,T,Switzerland,Azerbaijan,0
+2019,T,Switzerland,North Macedonia,2
+2019,T,Switzerland,Iceland,0
+2019,T,Switzerland,Czech Republic,0
+2019,T,Switzerland,Denmark,0
+2019,T,Switzerland,Slovenia,0
+2019,T,Switzerland,France,3
+2019,T,Switzerland,Cyprus,0
+2019,T,Switzerland,Malta,0
+2019,T,Switzerland,Serbia,7
+2019,T,Switzerland,Albania,10
+2019,T,Switzerland,Estonia,0
+2019,T,Switzerland,San Marino,0
+2019,T,Switzerland,Greece,0
+2019,T,Switzerland,Germany,0
+2019,T,Switzerland,Belarus,0
+2019,T,Switzerland,The Netherlands,6
+2019,T,Australia,Italy,5
+2019,T,Australia,Spain,0
+2019,T,Australia,Israel,0
+2019,T,Australia,United Kingdom,0
+2019,T,Australia,Russia,0
+2019,T,Australia,Switzerland,7
+2019,T,Australia,Norway,12
+2019,T,Australia,Sweden,8
+2019,T,Australia,Azerbaijan,0
+2019,T,Australia,North Macedonia,0
+2019,T,Australia,Iceland,10
+2019,T,Australia,Czech Republic,2
+2019,T,Australia,Denmark,0
+2019,T,Australia,Slovenia,0
+2019,T,Australia,France,3
+2019,T,Australia,Cyprus,0
+2019,T,Australia,Malta,4
+2019,T,Australia,Serbia,0
+2019,T,Australia,Albania,0
+2019,T,Australia,Estonia,0
+2019,T,Australia,San Marino,0
+2019,T,Australia,Greece,0
+2019,T,Australia,Germany,0
+2019,T,Australia,Belarus,0
+2019,T,Australia,The Netherlands,6
+2019,T,Spain,Italy,12
+2019,T,Spain,Israel,0
+2019,T,Spain,United Kingdom,0
+2019,T,Spain,Australia,5
+2019,T,Spain,Russia,2
+2019,T,Spain,Switzerland,10
+2019,T,Spain,Norway,7
+2019,T,Spain,Sweden,6
+2019,T,Spain,Azerbaijan,0
+2019,T,Spain,North Macedonia,0
+2019,T,Spain,Iceland,3
+2019,T,Spain,Czech Republic,0
+2019,T,Spain,Denmark,0
+2019,T,Spain,Slovenia,0
+2019,T,Spain,France,4
+2019,T,Spain,Cyprus,0
+2019,T,Spain,Malta,0
+2019,T,Spain,Serbia,0
+2019,T,Spain,Albania,0
+2019,T,Spain,Estonia,0
+2019,T,Spain,San Marino,0
+2019,T,Spain,Greece,0
+2019,T,Spain,Germany,0
+2019,T,Spain,Belarus,0
+2019,T,Spain,The Netherlands,8
+2019,T,Austria,Italy,10
+2019,T,Austria,Spain,0
+2019,T,Austria,Israel,0
+2019,T,Austria,United Kingdom,0
+2019,T,Austria,Australia,3
+2019,T,Austria,Russia,5
+2019,T,Austria,Switzerland,12
+2019,T,Austria,Norway,8
+2019,T,Austria,Sweden,0
+2019,T,Austria,Azerbaijan,0
+2019,T,Austria,North Macedonia,0
+2019,T,Austria,Iceland,6
+2019,T,Austria,Czech Republic,0
+2019,T,Austria,Denmark,0
+2019,T,Austria,Slovenia,2
+2019,T,Austria,France,0
+2019,T,Austria,Cyprus,0
+2019,T,Austria,Malta,0
+2019,T,Austria,Serbia,4
+2019,T,Austria,Albania,0
+2019,T,Austria,Estonia,0
+2019,T,Austria,San Marino,0
+2019,T,Austria,Greece,0
+2019,T,Austria,Germany,0
+2019,T,Austria,Belarus,0
+2019,T,Austria,The Netherlands,7
+2019,T,Belgium,Italy,8
+2019,T,Belgium,Spain,6
+2019,T,Belgium,Israel,0
+2019,T,Belgium,United Kingdom,0
+2019,T,Belgium,Australia,4
+2019,T,Belgium,Russia,0
+2019,T,Belgium,Switzerland,5
+2019,T,Belgium,Norway,7
+2019,T,Belgium,Sweden,2
+2019,T,Belgium,Azerbaijan,0
+2019,T,Belgium,North Macedonia,0
+2019,T,Belgium,Iceland,3
+2019,T,Belgium,Czech Republic,0
+2019,T,Belgium,Denmark,0
+2019,T,Belgium,Slovenia,0
+2019,T,Belgium,France,10
+2019,T,Belgium,Cyprus,0
+2019,T,Belgium,Malta,0
+2019,T,Belgium,Serbia,0
+2019,T,Belgium,Albania,0
+2019,T,Belgium,Estonia,0
+2019,T,Belgium,San Marino,0
+2019,T,Belgium,Greece,0
+2019,T,Belgium,Germany,0
+2019,T,Belgium,Belarus,0
+2019,T,Belgium,The Netherlands,12
+2019,T,Croatia,Italy,12
+2019,T,Croatia,Spain,0
+2019,T,Croatia,Israel,0
+2019,T,Croatia,United Kingdom,0
+2019,T,Croatia,Australia,0
+2019,T,Croatia,Russia,0
+2019,T,Croatia,Switzerland,6
+2019,T,Croatia,Norway,5
+2019,T,Croatia,Sweden,0
+2019,T,Croatia,Azerbaijan,0
+2019,T,Croatia,North Macedonia,7
+2019,T,Croatia,Iceland,3
+2019,T,Croatia,Czech Republic,0
+2019,T,Croatia,Denmark,0
+2019,T,Croatia,Slovenia,10
+2019,T,Croatia,France,0
+2019,T,Croatia,Cyprus,0
+2019,T,Croatia,Malta,0
+2019,T,Croatia,Serbia,8
+2019,T,Croatia,Albania,0
+2019,T,Croatia,Estonia,0
+2019,T,Croatia,San Marino,2
+2019,T,Croatia,Greece,0
+2019,T,Croatia,Germany,0
+2019,T,Croatia,Belarus,0
+2019,T,Croatia,The Netherlands,4
+2019,T,Finland,Italy,3
+2019,T,Finland,Spain,0
+2019,T,Finland,Israel,0
+2019,T,Finland,United Kingdom,0
+2019,T,Finland,Australia,6
+2019,T,Finland,Russia,4
+2019,T,Finland,Switzerland,2
+2019,T,Finland,Norway,10
+2019,T,Finland,Sweden,7
+2019,T,Finland,Azerbaijan,0
+2019,T,Finland,North Macedonia,0
+2019,T,Finland,Iceland,12
+2019,T,Finland,Czech Republic,0
+2019,T,Finland,Denmark,0
+2019,T,Finland,Slovenia,0
+2019,T,Finland,France,0
+2019,T,Finland,Cyprus,0
+2019,T,Finland,Malta,0
+2019,T,Finland,Serbia,0
+2019,T,Finland,Albania,0
+2019,T,Finland,Estonia,8
+2019,T,Finland,San Marino,0
+2019,T,Finland,Greece,0
+2019,T,Finland,Germany,0
+2019,T,Finland,Belarus,0
+2019,T,Finland,The Netherlands,5
+2019,T,Georgia,Italy,0
+2019,T,Georgia,Spain,0
+2019,T,Georgia,Israel,4
+2019,T,Georgia,United Kingdom,0
+2019,T,Georgia,Australia,0
+2019,T,Georgia,Russia,8
+2019,T,Georgia,Switzerland,0
+2019,T,Georgia,Norway,0
+2019,T,Georgia,Sweden,6
+2019,T,Georgia,Azerbaijan,7
+2019,T,Georgia,North Macedonia,2
+2019,T,Georgia,Iceland,3
+2019,T,Georgia,Czech Republic,0
+2019,T,Georgia,Denmark,0
+2019,T,Georgia,Slovenia,0
+2019,T,Georgia,France,0
+2019,T,Georgia,Cyprus,12
+2019,T,Georgia,Malta,0
+2019,T,Georgia,Serbia,0
+2019,T,Georgia,Albania,0
+2019,T,Georgia,Estonia,0
+2019,T,Georgia,San Marino,10
+2019,T,Georgia,Greece,0
+2019,T,Georgia,Germany,0
+2019,T,Georgia,Belarus,0
+2019,T,Georgia,The Netherlands,5
+2019,T,Hungary,Italy,4
+2019,T,Hungary,Spain,0
+2019,T,Hungary,Israel,0
+2019,T,Hungary,United Kingdom,0
+2019,T,Hungary,Australia,0
+2019,T,Hungary,Russia,7
+2019,T,Hungary,Switzerland,5
+2019,T,Hungary,Norway,10
+2019,T,Hungary,Sweden,0
+2019,T,Hungary,Azerbaijan,2
+2019,T,Hungary,North Macedonia,0
+2019,T,Hungary,Iceland,12
+2019,T,Hungary,Czech Republic,0
+2019,T,Hungary,Denmark,0
+2019,T,Hungary,Slovenia,3
+2019,T,Hungary,France,0
+2019,T,Hungary,Cyprus,0
+2019,T,Hungary,Malta,0
+2019,T,Hungary,Serbia,0
+2019,T,Hungary,Albania,0
+2019,T,Hungary,Estonia,0
+2019,T,Hungary,San Marino,6
+2019,T,Hungary,Greece,0
+2019,T,Hungary,Germany,0
+2019,T,Hungary,Belarus,0
+2019,T,Hungary,The Netherlands,8
+2019,T,Ireland,Italy,4
+2019,T,Ireland,Spain,0
+2019,T,Ireland,Israel,0
+2019,T,Ireland,United Kingdom,3
+2019,T,Ireland,Australia,10
+2019,T,Ireland,Russia,5
+2019,T,Ireland,Switzerland,7
+2019,T,Ireland,Norway,12
+2019,T,Ireland,Sweden,2
+2019,T,Ireland,Azerbaijan,0
+2019,T,Ireland,North Macedonia,0
+2019,T,Ireland,Iceland,6
+2019,T,Ireland,Czech Republic,0
+2019,T,Ireland,Denmark,0
+2019,T,Ireland,Slovenia,0
+2019,T,Ireland,France,0
+2019,T,Ireland,Cyprus,0
+2019,T,Ireland,Malta,0
+2019,T,Ireland,Serbia,0
+2019,T,Ireland,Albania,0
+2019,T,Ireland,Estonia,0
+2019,T,Ireland,San Marino,0
+2019,T,Ireland,Greece,0
+2019,T,Ireland,Germany,0
+2019,T,Ireland,Belarus,0
+2019,T,Ireland,The Netherlands,8
+2019,T,Latvia,Italy,3
+2019,T,Latvia,Spain,0
+2019,T,Latvia,Israel,0
+2019,T,Latvia,United Kingdom,0
+2019,T,Latvia,Australia,6
+2019,T,Latvia,Russia,12
+2019,T,Latvia,Switzerland,0
+2019,T,Latvia,Norway,8
+2019,T,Latvia,Sweden,0
+2019,T,Latvia,Azerbaijan,4
+2019,T,Latvia,North Macedonia,0
+2019,T,Latvia,Iceland,7
+2019,T,Latvia,Czech Republic,0
+2019,T,Latvia,Denmark,0
+2019,T,Latvia,Slovenia,2
+2019,T,Latvia,France,0
+2019,T,Latvia,Cyprus,0
+2019,T,Latvia,Malta,0
+2019,T,Latvia,Serbia,0
+2019,T,Latvia,Albania,0
+2019,T,Latvia,Estonia,10
+2019,T,Latvia,San Marino,0
+2019,T,Latvia,Greece,0
+2019,T,Latvia,Germany,0
+2019,T,Latvia,Belarus,0
+2019,T,Latvia,The Netherlands,5
+2019,T,Lithuania,Italy,10
+2019,T,Lithuania,Spain,0
+2019,T,Lithuania,Israel,0
+2019,T,Lithuania,United Kingdom,0
+2019,T,Lithuania,Australia,0
+2019,T,Lithuania,Russia,12
+2019,T,Lithuania,Switzerland,2
+2019,T,Lithuania,Norway,8
+2019,T,Lithuania,Sweden,3
+2019,T,Lithuania,Azerbaijan,5
+2019,T,Lithuania,North Macedonia,0
+2019,T,Lithuania,Iceland,6
+2019,T,Lithuania,Czech Republic,0
+2019,T,Lithuania,Denmark,0
+2019,T,Lithuania,Slovenia,0
+2019,T,Lithuania,France,0
+2019,T,Lithuania,Cyprus,0
+2019,T,Lithuania,Malta,0
+2019,T,Lithuania,Serbia,0
+2019,T,Lithuania,Albania,0
+2019,T,Lithuania,Estonia,4
+2019,T,Lithuania,San Marino,0
+2019,T,Lithuania,Greece,0
+2019,T,Lithuania,Germany,0
+2019,T,Lithuania,Belarus,0
+2019,T,Lithuania,The Netherlands,7
+2019,T,Moldova,Italy,5
+2019,T,Moldova,Spain,0
+2019,T,Moldova,Israel,7
+2019,T,Moldova,United Kingdom,0
+2019,T,Moldova,Australia,0
+2019,T,Moldova,Russia,12
+2019,T,Moldova,Switzerland,4
+2019,T,Moldova,Norway,3
+2019,T,Moldova,Sweden,0
+2019,T,Moldova,Azerbaijan,10
+2019,T,Moldova,North Macedonia,0
+2019,T,Moldova,Iceland,0
+2019,T,Moldova,Czech Republic,2
+2019,T,Moldova,Denmark,0
+2019,T,Moldova,Slovenia,0
+2019,T,Moldova,France,0
+2019,T,Moldova,Cyprus,0
+2019,T,Moldova,Malta,0
+2019,T,Moldova,Serbia,0
+2019,T,Moldova,Albania,0
+2019,T,Moldova,Estonia,0
+2019,T,Moldova,San Marino,8
+2019,T,Moldova,Greece,0
+2019,T,Moldova,Germany,0
+2019,T,Moldova,Belarus,0
+2019,T,Moldova,The Netherlands,6
+2019,T,Montenegro,Italy,5
+2019,T,Montenegro,Spain,0
+2019,T,Montenegro,Israel,0
+2019,T,Montenegro,United Kingdom,0
+2019,T,Montenegro,Australia,0
+2019,T,Montenegro,Russia,10
+2019,T,Montenegro,Switzerland,0
+2019,T,Montenegro,Norway,0
+2019,T,Montenegro,Sweden,0
+2019,T,Montenegro,Azerbaijan,3
+2019,T,Montenegro,North Macedonia,6
+2019,T,Montenegro,Iceland,2
+2019,T,Montenegro,Czech Republic,0
+2019,T,Montenegro,Denmark,0
+2019,T,Montenegro,Slovenia,4
+2019,T,Montenegro,France,0
+2019,T,Montenegro,Cyprus,0
+2019,T,Montenegro,Malta,0
+2019,T,Montenegro,Serbia,12
+2019,T,Montenegro,Albania,7
+2019,T,Montenegro,Estonia,0
+2019,T,Montenegro,San Marino,8
+2019,T,Montenegro,Greece,0
+2019,T,Montenegro,Germany,0
+2019,T,Montenegro,Belarus,0
+2019,T,Montenegro,The Netherlands,0
+2019,T,Poland,Italy,7
+2019,T,Poland,Spain,0
+2019,T,Poland,Israel,0
+2019,T,Poland,United Kingdom,0
+2019,T,Poland,Australia,6
+2019,T,Poland,Russia,3
+2019,T,Poland,Switzerland,5
+2019,T,Poland,Norway,8
+2019,T,Poland,Sweden,0
+2019,T,Poland,Azerbaijan,2
+2019,T,Poland,North Macedonia,0
+2019,T,Poland,Iceland,12
+2019,T,Poland,Czech Republic,0
+2019,T,Poland,Denmark,0
+2019,T,Poland,Slovenia,4
+2019,T,Poland,France,0
+2019,T,Poland,Cyprus,0
+2019,T,Poland,Malta,0
+2019,T,Poland,Serbia,0
+2019,T,Poland,Albania,0
+2019,T,Poland,Estonia,0
+2019,T,Poland,San Marino,0
+2019,T,Poland,Greece,0
+2019,T,Poland,Germany,0
+2019,T,Poland,Belarus,0
+2019,T,Poland,The Netherlands,10
+2019,T,Portugal,Italy,7
+2019,T,Portugal,Spain,12
+2019,T,Portugal,Israel,0
+2019,T,Portugal,United Kingdom,0
+2019,T,Portugal,Australia,4
+2019,T,Portugal,Russia,10
+2019,T,Portugal,Switzerland,5
+2019,T,Portugal,Norway,6
+2019,T,Portugal,Sweden,0
+2019,T,Portugal,Azerbaijan,0
+2019,T,Portugal,North Macedonia,0
+2019,T,Portugal,Iceland,3
+2019,T,Portugal,Czech Republic,0
+2019,T,Portugal,Denmark,0
+2019,T,Portugal,Slovenia,0
+2019,T,Portugal,France,2
+2019,T,Portugal,Cyprus,0
+2019,T,Portugal,Malta,0
+2019,T,Portugal,Serbia,0
+2019,T,Portugal,Albania,0
+2019,T,Portugal,Estonia,0
+2019,T,Portugal,San Marino,0
+2019,T,Portugal,Greece,0
+2019,T,Portugal,Germany,0
+2019,T,Portugal,Belarus,0
+2019,T,Portugal,The Netherlands,8
+2019,T,Romania,Italy,8
+2019,T,Romania,Spain,0
+2019,T,Romania,Israel,3
+2019,T,Romania,United Kingdom,0
+2019,T,Romania,Australia,2
+2019,T,Romania,Russia,7
+2019,T,Romania,Switzerland,10
+2019,T,Romania,Norway,4
+2019,T,Romania,Sweden,0
+2019,T,Romania,Azerbaijan,6
+2019,T,Romania,North Macedonia,0
+2019,T,Romania,Iceland,5
+2019,T,Romania,Czech Republic,0
+2019,T,Romania,Denmark,0
+2019,T,Romania,Slovenia,0
+2019,T,Romania,France,0
+2019,T,Romania,Cyprus,0
+2019,T,Romania,Malta,0
+2019,T,Romania,Serbia,0
+2019,T,Romania,Albania,0
+2019,T,Romania,Estonia,0
+2019,T,Romania,San Marino,0
+2019,T,Romania,Greece,0
+2019,T,Romania,Germany,0
+2019,T,Romania,Belarus,0
+2019,T,Romania,The Netherlands,12
+2019,T,Belarus,Italy,3
+2019,T,Belarus,Spain,0
+2019,T,Belarus,Israel,0
+2019,T,Belarus,United Kingdom,0
+2019,T,Belarus,Australia,2
+2019,T,Belarus,Russia,0
+2019,T,Belarus,Switzerland,4
+2019,T,Belarus,Norway,8
+2019,T,Belarus,Sweden,0
+2019,T,Belarus,Azerbaijan,6
+2019,T,Belarus,North Macedonia,0
+2019,T,Belarus,Iceland,7
+2019,T,Belarus,Czech Republic,0
+2019,T,Belarus,Denmark,0
+2019,T,Belarus,Slovenia,5
+2019,T,Belarus,France,0
+2019,T,Belarus,Cyprus,0
+2019,T,Belarus,Malta,0
+2019,T,Belarus,Serbia,0
+2019,T,Belarus,Albania,0
+2019,T,Belarus,Estonia,0
+2019,T,Belarus,San Marino,1
+2019,T,Belarus,Greece,0
+2019,T,Belarus,Germany,0
+2019,T,Belarus,The Netherlands,12
+2019,T,Belarus,Russia,0
